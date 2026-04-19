@@ -1,0 +1,1001 @@
+user_id,gender,race,province,name,surname,AGE,age_group,total_views,channels_watched,total_watch_hours,last_viewing_slot
+808921,male,black,Mpumalanga,Filiberto ,Pilot,24,Youth,2,2,-73635820.75,Afternoon Viewing
+919180,male,coloured,Western Cape,Lane ,Mccollum,36,Adult,1,1,-36817914,Morning Viewing
+2368559,male,black,Gauteng,Yong ,Marek,40,Adult,5,3,-184089522.83,Evening Viewing
+820544,male,indian_asian,Eastern Cape,Hollis ,Roquemore,42,Adult,3,2,-110453639.2,Afternoon Viewing
+894417,None,None,None,None,None,0,Child,2,2,-73635838.97,Afternoon Viewing
+2203596,male,black,Limpopo,Bernardo ,Mosser,38,Adult,8,3,-294543339.94,Evening Viewing
+809204,male,black,North West,Wilton ,Gettys,47,Adult,7,4,-257725399.27,Evening Viewing
+803748,male,indian_asian,Eastern Cape,Kip ,Holt,35,Adult,1,1,-36817907.73,Evening Viewing
+641735,male,black,Gauteng,Art ,Sytsma,22,Youth,2,2,-73635837.05,Morning Viewing
+809266,male,coloured,Free State,Yong ,Mcculloch,46,Adult,3,3,-110453747.02,Evening Viewing
+820773,male,indian_asian,Gauteng,Romeo ,Curran,19,Youth,1,1,-36817902.3,Afternoon Viewing
+789004,male,None,Northern Cape,Valentine ,Pool,36,Adult,8,5,-294543330.24,Afternoon Viewing
+257113,male,black,Kwazulu Natal,Shane ,Woolard,27,Youth,1,1,-36817920,Evening Viewing
+809311,male,coloured,Western Cape,Garry ,Fudge,30,Youth,10,3,-368179138.53,Afternoon Viewing
+809312,male,black,Gauteng,Hyman ,Hier,19,Youth,5,4,-184089563.85,Afternoon Viewing
+820970,male,white,North West,Efren ,Bilyeu,41,Adult,2,2,-73635821.93,Afternoon Viewing
+809495,female,black,Limpopo,Williemae ,Holt,35,Adult,1,1,-36817917.13,Morning Viewing
+69030,male,black,Free State,Stacy ,Tancredi,37,Adult,1,1,-36817916.7,Afternoon Viewing
+750715,male,coloured,Western Cape,Filiberto ,Beville,32,Youth,10,9,-368179179.32,Evening Viewing
+926998,male,indian_asian,Gauteng,Jacinto ,Mccown,29,Youth,1,1,-36817911.8,Afternoon Viewing
+2091260,male,black,Gauteng,Bernardo ,Mcculloch,35,Adult,3,2,-110453756.6,Morning Viewing
+821631,male,black,Gauteng,Abel ,Mastrangelo,31,Youth,7,3,-257725241.42,Evening Viewing
+810095,female,white,Gauteng,Loris ,Hier,41,Adult,1,1,-36817911.33,Evening Viewing
+780334,male,black,Kwazulu Natal,Valentine ,Leicht,26,Youth,1,1,-36817916.75,Afternoon Viewing
+821866,male,coloured,Western Cape,Earl ,Leicht,44,Adult,2,2,-73635824.68,Afternoon Viewing
+773002,male,black,Gauteng,Randy ,Deblois,25,Youth,6,5,-220907508.72,Afternoon Viewing
+803160,female,indian_asian,Gauteng,Epifania ,Crotty,50,Middle Aged,1,1,-36817914.2,Afternoon Viewing
+815728,male,black,Kwazulu Natal,Valentine ,Marek,35,Adult,1,1,-36817920,Evening Viewing
+822142,male,black,Gauteng,Shane ,Roquemore,33,Youth,8,6,-294543340.35,Afternoon Viewing
+2370981,male,black,Kwazulu Natal,Romeo ,Tatham,41,Adult,3,3,-110453752.68,Morning Viewing
+893979,male,indian_asian,Free State,Efren ,Vital,33,Youth,1,1,-36817919.32,Midnight Viewing
+852672,male,black,Mpumalanga,Stephen ,Mcculloch,45,Adult,2,1,-73635833.4,Afternoon Viewing
+2324585,male,black,Limpopo,Chas ,Zweifel,38,Adult,1,1,-36817920,Evening Viewing
+894256,male,white,Gauteng,Irving ,Mccown,56,Middle Aged,2,2,-73635822.35,Morning Viewing
+820492,male,black,Limpopo,Yong ,Arrieta,54,Middle Aged,3,3,-110453747.51,Afternoon Viewing
+788978,male,other,Western Cape,Irving ,Condie,37,Adult,8,6,-294543214.6,Afternoon Viewing
+27318,None,None,None,None,None,0,Child,1,1,-36817918,Evening Viewing
+891865,male,indian_asian,North West,Markus ,Mcculloch,36,Adult,1,1,-36817897.47,Morning Viewing
+511233,None,None,None,None,None,0,Child,2,1,-73635783,Evening Viewing
+809576,male,indian_asian,Kwazulu Natal,Earl ,Hier,28,Youth,5,5,-184089570.2,Afternoon Viewing
+789241,male,coloured,Northern Cape,Carter ,Crotty,25,Youth,2,2,-73635837.78,Morning Viewing
+821133,male,indian_asian,Western Cape,Royal ,Condie,31,Youth,1,1,-36817918.6,Afternoon Viewing
+894658,male,indian_asian,Gauteng,Kyle ,Caves,30,Youth,1,1,-36817914.9,Afternoon Viewing
+2287668,male,black,Kwazulu Natal,Efren ,Slane,33,Youth,12,6,-441815001.62,Evening Viewing
+1107714,male,black,North West,Cody ,Creager,27,Youth,1,1,-36817895.45,Morning Viewing
+772618,female,coloured,Kwazulu Natal,Emilie ,Deblois,14,Teen,1,1,-36817919.81,Afternoon Viewing
+809890,male,indian_asian,Limpopo,Len ,Paradis,52,Middle Aged,1,1,-36817919.87,Morning Viewing
+832831,male,black,Limpopo,Raymundo ,Restivo,26,Youth,2,2,-73635826.47,Afternoon Viewing
+640446,male,coloured,Eastern Cape,Art ,Mosser,55,Middle Aged,1,1,-36817920,Midnight Viewing
+804626,female,black,Gauteng,Earline ,Zweifel,24,Youth,2,2,-73635839.95,Afternoon Viewing
+810259,male,black,North West,Yong ,Holt,29,Youth,8,6,-294543346.87,Evening Viewing
+810290,male,white,Gauteng,Cody ,Borelli,45,Adult,2,2,-73635792.03,Afternoon Viewing
+893885,male,indian_asian,Gauteng,Emerson ,Pilot,21,Youth,7,3,-257725370.53,Evening Viewing
+822062,male,coloured,Free State,Irving ,Caves,27,Youth,3,3,-110453758.81,Evening Viewing
+907517,male,coloured,Free State,Lane ,Mcclaine,36,Adult,1,1,-36817883.5,Afternoon Viewing
+741931,male,None,Gauteng,Samuel ,Pool,45,Adult,1,1,-36817917.97,Afternoon Viewing
+773290,male,coloured,Northern Cape,Yong ,Singer,26,Youth,1,1,-36817904,Evening Viewing
+780610,male,black,Gauteng,Hyman ,Paradis,40,Adult,3,2,-110453728.7,Morning Viewing
+2205469,male,coloured,Eastern Cape,Earl ,Crotty,33,Youth,1,1,-36817918.6,Afternoon Viewing
+808979,female,white,Free State,Bess ,Jacox,26,Youth,1,1,-36817915.13,Evening Viewing
+771867,male,black,Gauteng,Brendan ,Zweifel,14,Teen,11,6,-404997055.86,Evening Viewing
+866270,male,indian_asian,Gauteng,Jared ,Caves,32,Youth,2,2,-73635760.45,Morning Viewing
+918332,female,indian_asian,Gauteng,Earline ,Zweifel,23,Youth,3,3,-110453673.2,Afternoon Viewing
+788787,male,white,Northern Cape,Jacinto ,Deblois,19,Youth,2,2,-73635838.92,Evening Viewing
+601176,male,white,Mpumalanga,Filiberto ,Pool,23,Youth,1,1,-36817919.78,Evening Viewing
+809392,male,coloured,Western Cape,Hugh,Tancredi,37,Adult,1,1,-36817915.73,Morning Viewing
+859872,male,indian_asian,Gauteng,Abel ,Mosser,39,Adult,4,2,-147271642.27,Afternoon Viewing
+772369,female,black,Gauteng,Minerva ,Marek,57,Middle Aged,2,2,-73635837.95,Morning Viewing
+891969,male,indian_asian,Gauteng,Abel ,Bilyeu,33,Youth,2,2,-73635833.37,Evening Viewing
+940308,male,None,Gauteng,Hyman ,Hoadley,32,Youth,1,1,-36817905.63,Afternoon Viewing
+789254,male,black,Mpumalanga,Art ,Beville,24,Youth,12,5,-441815002.08,Morning Viewing
+858866,None,None,None,None,None,0,Child,1,1,-36817916.77,Afternoon Viewing
+867234,male,coloured,Western Cape,Loyd ,Fudge,25,Youth,3,2,-110453692.53,Midnight Viewing
+794389,male,indian_asian,Gauteng,Eli ,Tancredi,23,Youth,1,1,-36817871.07,Evening Viewing
+920222,male,white,Mpumalanga,Garry ,Luthy,15,Teen,1,1,-36817919.03,Morning Viewing
+2370319,male,None,Limpopo,Garry ,Restivo,27,Youth,8,5,-294543295.48,Afternoon Viewing
+849265,male,None,Gauteng,Kip ,Mcculloch,22,Youth,1,1,-36817920,Morning Viewing
+2415188,male,,Gauteng,Jared ,Pilot,37,Adult,2,2,-73635833.45,Morning Viewing
+810463,male,other,Western Cape,Shane ,Martello,34,Youth,3,2,-110453736.33,Afternoon Viewing
+2422776,male,white,Gauteng,Irving ,Creager,20,Youth,1,1,-36817919.3,Evening Viewing
+903917,male,None,Gauteng,Earl ,Borelli,38,Adult,1,1,-36817918.33,Evening Viewing
+2362117,male,white,Gauteng,Hollis ,Lavoie,21,Youth,1,1,-36817919.13,Afternoon Viewing
+941574,male,coloured,Gauteng,Filiberto ,Gettys,40,Adult,1,1,-36817857.27,Midnight Viewing
+882188,female,white,Gauteng,Yolonda ,Pascarella,37,Adult,1,1,-36817917.3,Evening Viewing
+892515,male,white,Western Cape,Loyd ,Martello,34,Youth,2,2,-73635829.37,Morning Viewing
+779489,male,black,Kwazulu Natal,Wilton ,Bilyeu,37,Adult,1,1,-36817917.22,Midnight Viewing
+833457,male,None,Western Cape,Dion ,Slane,37,Adult,1,1,-36817905.62,Evening Viewing
+789082,male,indian_asian,Limpopo,Cory ,Mcculloch,26,Youth,5,2,-184089251.37,Morning Viewing
+593867,male,white,Gauteng,Hyman ,Sieren,23,Youth,2,2,-73635836.43,Morning Viewing
+821074,male,white,Eastern Cape,Hyman ,Zweifel,32,Youth,1,1,-36817916.17,Morning Viewing
+772451,female,black,North West,Luanna ,Hoadley,36,Adult,2,1,-73635807.93,Evening Viewing
+2360715,male,black,Western Cape,Garry ,Fudge,24,Youth,1,1,-36817909.73,Evening Viewing
+2427210,male,indian_asian,Western Cape,Chas ,Arrieta,30,Youth,1,1,-36817912.97,Morning Viewing
+772687,male,black,Limpopo,Garry ,Mosser,38,Adult,4,3,-147271654.68,Evening Viewing
+2421855,male,indian_asian,Limpopo,Loyd ,Deblois,41,Adult,4,2,-147271478.85,Afternoon Viewing
+808594,male,indian_asian,Limpopo,Lane ,Pascarella,42,Adult,1,1,-36817919.17,Evening Viewing
+821824,None,None,None,None,None,0,Child,1,1,-36817915.9,Afternoon Viewing
+941007,male,black,Gauteng,Kip ,Mastrangelo,29,Youth,3,3,-110453749.12,Evening Viewing
+773049,male,indian_asian,Kwazulu Natal,Shane ,Crotty,26,Youth,4,4,-147271671.53,Morning Viewing
+794647,male,white,Gauteng,Stephen ,Leicht,40,Adult,3,3,-110453741.65,Evening Viewing
+2405348,male,black,Gauteng,Stefan ,Fudge,43,Adult,3,2,-110453726.91,Afternoon Viewing
+802352,None,None,None,None,None,0,Child,1,1,-36817909.9,Morning Viewing
+850656,male,black,Mpumalanga,Carter ,Hoadley,26,Youth,3,2,-110453759.73,Morning Viewing
+764296,male,coloured,Western Cape,Royal ,Pascarella,23,Youth,2,2,-73635837.57,Morning Viewing
+809011,male,coloured,Western Cape,Raymundo ,Pilot,48,Adult,7,4,-257725368.03,Afternoon Viewing
+939712,male,black,Western Cape,Bernardo ,Borelli,42,Adult,2,2,-73635838.38,Morning Viewing
+924886,male,indian_asian,Gauteng,Michel ,Mccollum,31,Youth,1,1,-36817914.27,Morning Viewing
+2059372,male,black,Gauteng,Stefan ,Luthy,33,Youth,1,1,-36817920,Evening Viewing
+789251,male,coloured,Western Cape,Raymundo ,Mccown,9,Child,3,3,-110453754.27,Morning Viewing
+559277,male,None,Western Cape,Wilton ,Creager,26,Youth,1,1,-36817918.4,Afternoon Viewing
+2427278,male,indian_asian,Eastern Cape,Jacinto ,Biggers,30,Youth,1,1,-36817892.63,Afternoon Viewing
+2422360,male,coloured,Western Cape,Dion ,Mcculloch,36,Adult,6,5,-220907390.72,Evening Viewing
+907722,male,white,Gauteng,Jacinto ,Mccown,40,Adult,1,1,-36817892.1,Evening Viewing
+810473,male,None,Gauteng,Randy ,Condie,42,Adult,2,2,-73635798.93,Afternoon Viewing
+907908,male,black,Eastern Cape,Shane ,Langenfeld,36,Adult,1,1,-36817919.42,Afternoon Viewing
+2405338,male,white,Free State,Len ,Pool,21,Youth,2,2,-73635836.92,Afternoon Viewing
+822416,male,indian_asian,Gauteng,Donald ,Curran,51,Middle Aged,3,2,-110453752.13,Morning Viewing
+941618,male,coloured,Gauteng,Cory ,Paradis,22,Youth,1,1,-36817913.15,Afternoon Viewing
+941660,male,white,Free State,Kyle ,Deblois,24,Youth,2,2,-73635836.83,Afternoon Viewing
+822539,male,black,Gauteng,Bernardo ,Wigfall,23,Youth,2,2,-73635839.27,Morning Viewing
+2255459,male,black,Mpumalanga,Michel ,Reisinger,22,Youth,2,2,-73635831.85,Midnight Viewing
+771003,male,coloured,Western Cape,Romeo ,Tancredi,31,Youth,3,3,-110453756.2,Evening Viewing
+788792,female,black,Gauteng,Felipa ,Mcculloch,36,Adult,4,2,-147271645.43,Evening Viewing
+870025,male,indian_asian,Gauteng,Chas ,Borelli,25,Youth,2,1,-73635825.35,Midnight Viewing
+610413,female,black,Eastern Cape,Earline ,Zweifel,64,Middle Aged,1,1,-36817875.55,Evening Viewing
+939846,male,black,Kwazulu Natal,Hollis ,Mina,17,Teen,3,3,-110453688.18,Afternoon Viewing
+919691,female,None,Gauteng,Lesli ,Martello,25,Youth,1,1,-36817919.82,Evening Viewing
+809504,male,black,Gauteng,Dion ,Leicht,44,Adult,1,1,-36817918.96,Morning Viewing
+2203966,male,coloured,Western Cape,Lane ,Fudge,32,Youth,3,3,-110453758.47,Afternoon Viewing
+767592,male,black,Gauteng,Carter ,Creager,37,Adult,1,1,-36817920,Evening Viewing
+597546,male,black,Kwazulu Natal,Len ,Mastrangelo,23,Youth,3,2,-110453737.28,Afternoon Viewing
+789431,male,black,Mpumalanga,Jared ,Shkreli,49,Adult,1,1,-36817915.9,Afternoon Viewing
+750418,male,white,North West,Charlie ,Mcclaine,37,Adult,1,1,-36817920,Afternoon Viewing
+772873,male,black,Limpopo,Wilton ,Shkreli,9,Child,6,6,-220907470.76,Evening Viewing
+51888,female,black,Mpumalanga,Katharina ,Condie,24,Youth,2,2,-73635838.65,Morning Viewing
+906996,male,indian_asian,Limpopo,Samuel ,Langenfeld,24,Youth,1,1,-36817917.43,Afternoon Viewing
+2370617,male,indian_asian,Limpopo,Cody ,Jacox,35,Adult,3,2,-110453747.84,Morning Viewing
+893957,male,indian_asian,Kwazulu Natal,Bret ,Paradis,35,Adult,3,2,-110453679.73,Afternoon Viewing
+810533,male,black,Gauteng,Dee ,Hier,49,Adult,4,4,-147271668.77,Afternoon Viewing
+939774,male,indian_asian,Gauteng,Filiberto ,Curran,13,Teen,1,1,-36817917.6,Afternoon Viewing
+886721,male,indian_asian,Gauteng,Robby ,Langenfeld,30,Youth,1,1,-36817919.65,Midnight Viewing
+2360532,male,coloured,Western Cape,Filiberto ,Sytsma,55,Middle Aged,1,1,-36817911.4,Afternoon Viewing
+588935,female,coloured,Western Cape,Cordie ,Singer,51,Middle Aged,1,1,-36817913.15,Evening Viewing
+931253,male,coloured,Western Cape,Eli ,Lavoie,26,Youth,4,3,-147271674.65,Afternoon Viewing
+870004,male,black,Gauteng,Filiberto ,Reisinger,38,Adult,1,1,-36817919.33,Afternoon Viewing
+881496,male,indian_asian,Kwazulu Natal,Stacy ,Curran,42,Adult,1,1,-36817919.23,Evening Viewing
+833001,male,coloured,Limpopo,Samuel ,Langenfeld,25,Youth,1,1,-36817919.13,Afternoon Viewing
+906925,male,indian_asian,Gauteng,Kip ,Wigfall,31,Youth,1,1,-36817912.6,Afternoon Viewing
+810198,male,white,Western Cape,Chas ,Fudge,51,Middle Aged,4,1,-147271554.92,Morning Viewing
+810205,male,indian_asian,Gauteng,Emerson ,Sieren,31,Youth,10,5,-368178992.45,Afternoon Viewing
+810648,male,indian_asian,Kwazulu Natal,Jacinto ,Paradis,43,Adult,1,1,-36817919.1,Afternoon Viewing
+894176,male,coloured,Western Cape,Shane ,Mina,47,Adult,1,1,-36817918.97,Evening Viewing
+870696,male,None,Eastern Cape,Brendan ,Paradis,33,Youth,2,2,-73635789.07,Morning Viewing
+2289159,female,black,Gauteng,Gretta ,Mosser,32,Youth,3,3,-110453671.4,Afternoon Viewing
+852815,male,indian_asian,Gauteng,Brendan ,Wigfall,38,Adult,1,1,-36817918.9,Afternoon Viewing
+808941,male,coloured,Western Cape,Michel ,Curran,36,Adult,1,1,-36817919.47,Midnight Viewing
+919229,male,None,Limpopo,Claud ,Tatham,32,Youth,2,1,-73635810.27,Afternoon Viewing
+918442,male,indian_asian,Limpopo,Emerson ,Singer,46,Adult,1,1,-36817920,Evening Viewing
+789220,male,white,Mpumalanga,Abel ,Mastrangelo,26,Youth,6,3,-220907263.3,Evening Viewing
+483783,None,None,None,None,None,0,Child,3,3,-110453729.4,Morning Viewing
+809754,male,indian_asian,Mpumalanga,Michel ,Nicholls,32,Youth,1,1,-36817880.07,Afternoon Viewing
+893717,male,black,Limpopo,Bret ,Deblois,23,Youth,1,1,-36817919.48,Afternoon Viewing
+870195,male,white,Gauteng,Garry ,Reisinger,37,Adult,1,1,-36817852.3,Evening Viewing
+931557,male,black,Gauteng,Romeo ,Roquemore,27,Youth,2,2,-73635833.15,Morning Viewing
+928133,male,indian_asian,North West,Hyman ,Marek,46,Adult,1,1,-36817915.57,Morning Viewing
+766872,female,black,North West,Winona ,Wigfall,49,Adult,1,1,-36817919.6,Midnight Viewing
+1703706,female,,Eastern Cape,Alissa ,Woolard,39,Adult,2,2,-73635840,Afternoon Viewing
+2216423,female,coloured,Northern Cape,Nubia ,Sytsma,40,Adult,1,1,-36817917.4,Afternoon Viewing
+822542,male,black,Gauteng,Filiberto ,Reisinger,21,Youth,1,1,-36817918.18,Afternoon Viewing
+100538,None,None,None,None,None,0,Child,1,1,-36817827.5,Afternoon Viewing
+2415057,male,white,Gauteng,Carter ,Bilyeu,47,Adult,2,2,-73635836.63,Evening Viewing
+220052,female,white,Northern Cape,Emilie ,Deblois,22,Youth,1,1,-36817903.27,Afternoon Viewing
+2370034,male,coloured,Western Cape,Emerson ,Leicht,30,Youth,4,2,-147271671.33,Evening Viewing
+804464,female,black,Limpopo,Krysta ,Mastrangelo,29,Youth,1,1,-36817915.65,Evening Viewing
+805310,male,black,Gauteng,Dee ,Marek,39,Adult,2,2,-73635835.61,Evening Viewing
+866255,male,white,North West,Cory ,Mccown,24,Youth,1,1,-36817911.6,Afternoon Viewing
+720995,female,black,Gauteng,Emilie ,Deblois,18,Youth,1,1,-36817918.6,Morning Viewing
+2203672,female,white,Gauteng,Lesli ,Martello,33,Youth,1,1,-36817884.57,Afternoon Viewing
+893029,male,None,Western Cape,Bernardo ,Vital,43,Adult,3,2,-110453634.8,Afternoon Viewing
+821163,male,black,Gauteng,Randy ,Mastrangelo,30,Youth,4,3,-147271674.18,Evening Viewing
+866901,male,white,Gauteng,Cory ,Jacox,39,Adult,3,2,-110453729.57,Morning Viewing
+673900,male,white,Northern Cape,Art ,Shkreli,31,Youth,1,1,-36817920,Afternoon Viewing
+320909,male,other,Western Cape,Valentine ,Mosser,36,Adult,1,1,-36817918.8,Afternoon Viewing
+772844,male,black,Gauteng,Abel ,Nicholls,34,Youth,2,1,-73635839.03,Midnight Viewing
+893562,male,black,Gauteng,Cory ,Borelli,37,Adult,3,3,-110453736.93,Morning Viewing
+778180,male,coloured,Western Cape,Earl ,Borelli,34,Youth,1,1,-36817915.23,Afternoon Viewing
+765767,male,white,Western Cape,Chas ,Pascarella,23,Youth,1,1,-36817919.16,Afternoon Viewing
+821997,male,black,Gauteng,Hollis ,Wigfall,27,Youth,1,1,-36817915.53,Afternoon Viewing
+2288897,male,black,Western Cape,Cory ,Bilyeu,42,Adult,1,1,-36817919.83,Evening Viewing
+867958,male,white,Northern Cape,Valentine ,Styer,22,Youth,1,1,-36817919.5,Afternoon Viewing
+810680,male,coloured,Kwazulu Natal,Chas ,Martello,42,Adult,2,2,-73635704.12,Afternoon Viewing
+786181,male,black,Gauteng,Art ,Wigfall,27,Youth,1,1,-36817917.2,Evening Viewing
+1324574,male,black,Gauteng,Robby ,Creager,39,Adult,1,1,-36817920,Midnight Viewing
+304977,female,black,Free State,Desirae ,Luthy,45,Adult,1,1,-36817919,Morning Viewing
+930462,male,coloured,Western Cape,Claud ,Mina,31,Youth,1,1,-36817919.27,Evening Viewing
+789244,male,black,North West,Chas ,Sieren,19,Youth,1,1,-36817919.83,Afternoon Viewing
+496120,male,black,Free State,Hollis ,Crotty,27,Youth,3,3,-110453753.23,Evening Viewing
+611188,male,black,Gauteng,Lucas ,Mccollum,32,Youth,3,2,-110453753.4,Morning Viewing
+611535,male,indian_asian,Gauteng,Efren ,Woolard,27,Youth,2,2,-73635788.93,Evening Viewing
+69707,male,indian_asian,Kwazulu Natal,Samuel ,Pascarella,34,Youth,1,1,-36817918.17,Midnight Viewing
+2021324,male,indian_asian,Gauteng,Cody ,Woolard,36,Adult,1,1,-36817912.7,Morning Viewing
+2370492,male,None,Mpumalanga,Abel ,Holt,32,Youth,2,2,-73635839.75,Evening Viewing
+810164,male,black,Mpumalanga,Charlie ,Hier,34,Youth,1,1,-36817919.65,Evening Viewing
+867604,male,indian_asian,Limpopo,Kyle ,Hoadley,32,Youth,2,2,-73635796.93,Evening Viewing
+833222,male,black,Limpopo,Donald ,Styer,25,Youth,1,1,-36817903.17,Evening Viewing
+257303,male,coloured,Western Cape,Jacinto ,Zweifel,25,Youth,1,1,-36817918.13,Afternoon Viewing
+773329,male,black,Gauteng,Irving ,Vital,48,Adult,1,1,-36817911.97,Evening Viewing
+597444,male,black,Limpopo,Wilburn ,Mccown,25,Youth,1,1,-36817920,Morning Viewing
+820539,male,black,Gauteng,Loyd ,Curran,24,Youth,1,1,-36817919.5,Midnight Viewing
+764656,male,indian_asian,Western Cape,Stefan ,Fudge,34,Youth,1,1,-36817897.4,Morning Viewing
+810593,female,black,Limpopo,Gretta ,Mosser,51,Middle Aged,2,2,-73635829.53,Afternoon Viewing
+2204564,male,coloured,Western Cape,Robby ,Creager,35,Adult,1,1,-36817919.03,Midnight Viewing
+393552,male,coloured,Western Cape,Garry ,Hoadley,33,Youth,2,2,-73635768.6,Afternoon Viewing
+804554,male,black,Mpumalanga,Charlie ,Woolard,38,Adult,2,2,-73635839.83,Afternoon Viewing
+867375,male,black,North West,Shane ,Sytsma,27,Youth,2,2,-73635834.47,Evening Viewing
+940991,male,coloured,Western Cape,Filiberto ,Restivo,25,Youth,1,1,-36817915.03,Evening Viewing
+941348,female,black,Gauteng,Teresia ,Beville,34,Youth,1,1,-36817918.6,Evening Viewing
+2423136,male,coloured,Western Cape,Jacinto ,Crotty,43,Adult,1,1,-36817727.83,Afternoon Viewing
+868895,male,coloured,Western Cape,Kip ,Paradis,23,Youth,5,3,-184089541.72,Midnight Viewing
+771830,male,black,Gauteng,Michel ,Tancredi,49,Adult,1,1,-36817919.5,Afternoon Viewing
+859431,male,black,Western Cape,Hyman ,Langenfeld,42,Adult,1,1,-36817919.53,Afternoon Viewing
+866592,male,indian_asian,Gauteng,Chas ,Sytsma,28,Youth,3,1,-110453606.87,Morning Viewing
+789099,male,None,Gauteng,Dion ,Paradis,41,Adult,1,1,-36817919.72,Morning Viewing
+789250,male,white,Gauteng,Loyd ,Slane,38,Adult,1,1,-36817914,Morning Viewing
+860111,male,indian_asian,Mpumalanga,Jared ,Woolard,29,Youth,1,1,-36817786.87,Afternoon Viewing
+821223,male,indian_asian,Limpopo,Garry ,Bilyeu,24,Youth,2,1,-73635839.03,Afternoon Viewing
+818280,male,indian_asian,Kwazulu Natal,Len ,Singer,23,Youth,2,2,-73635840,Afternoon Viewing
+809986,male,indian_asian,North West,Valentine ,Mcculloch,34,Youth,1,1,-36817887.75,Morning Viewing
+667568,male,white,Gauteng,Wilton ,Zweifel,34,Youth,1,1,-36817920,Afternoon Viewing
+893829,male,indian_asian,Mpumalanga,Valentine ,Caves,40,Adult,1,1,-36817818.23,Afternoon Viewing
+2370769,female,black,Gauteng,Yolonda ,Pascarella,33,Youth,1,1,-36817919.6,Evening Viewing
+810467,male,indian_asian,Mpumalanga,Valentine ,Tancredi,36,Adult,1,1,-36817907.6,Afternoon Viewing
+867890,male,indian_asian,Mpumalanga,Samuel ,Creager,36,Adult,1,1,-36817917.6,Morning Viewing
+810611,male,coloured,Mpumalanga,Lloyd ,Biggers,39,Adult,2,2,-73635834.67,Afternoon Viewing
+263937,female,black,Free State,Sharri ,Tatham,43,Adult,1,1,-36817920,Evening Viewing
+772102,male,coloured,Western Cape,Len ,Fudge,60,Middle Aged,2,2,-73635834.52,Morning Viewing
+819746,male,black,Gauteng,Lane ,Mcculloch,38,Adult,1,1,-36817878.42,Afternoon Viewing
+1108051,male,white,Northern Cape,Cory ,Shkreli,18,Youth,1,1,-36817919.45,Evening Viewing
+821721,female,white,Gauteng,Meghann ,Curran,25,Youth,1,1,-36817919.33,Morning Viewing
+821816,male,black,Gauteng,Randy ,Arrieta,35,Adult,2,1,-73635838.07,Evening Viewing
+586480,male,black,Mpumalanga,Stephen ,Restivo,22,Youth,1,1,-36817917.58,Evening Viewing
+821939,female,black,Gauteng,Desirae ,Luthy,36,Adult,3,1,-110453755.55,Evening Viewing
+28115,male,black,Limpopo,Valentine ,Sieren,44,Adult,1,1,-36817918.73,Morning Viewing
+908041,male,indian_asian,Mpumalanga,Loyd ,Singer,28,Youth,1,1,-36817917.76,Morning Viewing
+894062,male,black,Mpumalanga,Earl ,Martello,52,Middle Aged,1,1,-36817888.55,Afternoon Viewing
+31162,None,None,None,None,None,0,Child,1,1,-36817910.4,Evening Viewing
+892661,male,black,Eastern Cape,Charlie ,Mina,22,Youth,3,2,-110453730.12,Evening Viewing
+866623,male,other,Western Cape,Markus ,Pilot,40,Adult,1,1,-36817908.47,Midnight Viewing
+582896,male,white,Western Cape,Yong ,Caves,19,Youth,2,1,-73635840,Evening Viewing
+821692,male,coloured,Eastern Cape,Bernardo ,Fudge,28,Youth,2,1,-73635838.8,Afternoon Viewing
+846154,male,coloured,Western Cape,Hollis ,Beville,32,Youth,1,1,-36817920,Evening Viewing
+773409,female,None,Gauteng,Alecia ,Roquemore,33,Youth,2,1,-73635799.87,Evening Viewing
+870677,male,white,Gauteng,Jacinto ,Lavoie,27,Youth,1,1,-36817919.4,Afternoon Viewing
+810764,male,black,Gauteng,Robby ,Pilot,45,Adult,2,1,-73635832.47,Afternoon Viewing
+457259,None,None,None,None,None,0,Child,1,1,-36817891.2,Morning Viewing
+794287,male,black,Limpopo,Bernardo ,Holt,27,Youth,1,1,-36817919.92,Afternoon Viewing
+832719,male,indian_asian,Limpopo,Dion ,Roquemore,28,Youth,1,1,-36817917.63,Afternoon Viewing
+772699,male,black,Gauteng,Yong ,Luthy,34,Youth,1,1,-36817913.63,Afternoon Viewing
+780291,male,black,Gauteng,Bret ,Tancredi,41,Adult,1,1,-36817918.79,Morning Viewing
+918892,male,indian_asian,Gauteng,Chas ,Leicht,27,Youth,1,1,-36817918.98,Evening Viewing
+896477,male,indian_asian,Gauteng,Jared ,Wigfall,24,Youth,1,1,-36817903.85,Morning Viewing
+941452,female,black,Gauteng,Teresia ,Beville,27,Youth,1,1,-36817859,Midnight Viewing
+794966,male,black,Mpumalanga,Kip ,Hier,15,Teen,1,1,-36817911.95,Afternoon Viewing
+416232,None,None,None,None,None,0,Child,1,1,-36817920,Morning Viewing
+777129,male,white,North West,Hugh,Luthy,31,Youth,1,1,-36817918.8,Evening Viewing
+809197,male,coloured,Western Cape,Dion ,Styer,29,Youth,5,3,-184089549.08,Afternoon Viewing
+820653,male,black,Gauteng,Kip ,Beville,36,Adult,4,3,-147271601.9,Afternoon Viewing
+2287006,male,black,Gauteng,Hyman ,Zweifel,33,Youth,5,4,-184089571.82,Afternoon Viewing
+1385756,female,black,Western Cape,Bess ,Jacox,34,Youth,2,2,-73635822.95,Morning Viewing
+764773,male,coloured,Gauteng,Cory ,Luthy,24,Youth,2,2,-73635838.46,Evening Viewing
+892936,male,black,Northern Cape,Dee ,Martello,32,Youth,15,5,-552268719.45,Morning Viewing
+809528,male,white,Gauteng,Stefan ,Langenfeld,53,Middle Aged,1,1,-36817919.77,Evening Viewing
+860058,male,indian_asian,Mpumalanga,Charlie ,Vital,30,Youth,1,1,-36817919.43,Morning Viewing
+2426887,male,indian_asian,Gauteng,Wilburn ,Slane,40,Adult,1,1,-36817919.4,Afternoon Viewing
+809825,male,black,Gauteng,Hyman ,Slane,32,Youth,10,4,-368179172.11,Evening Viewing
+940671,male,white,Kwazulu Natal,Earl ,Deblois,34,Youth,5,4,-184089559.55,Evening Viewing
+867210,male,white,Western Cape,Donald ,Mina,44,Adult,1,1,-36817919.37,Afternoon Viewing
+804539,male,None,Gauteng,Raymundo ,Crotty,50,Middle Aged,5,3,-184089575.25,Morning Viewing
+2415121,male,black,Eastern Cape,Lane ,Arrieta,23,Youth,24,9,-883629442.93,Afternoon Viewing
+772900,male,black,Gauteng,Markus ,Jacox,30,Youth,1,1,-36817918.85,Morning Viewing
+931362,male,indian_asian,Limpopo,Michel ,Langenfeld,29,Youth,9,5,-331361139.43,Afternoon Viewing
+42284,male,coloured,Northern Cape,Wilton ,Bilyeu,36,Adult,1,1,-36817918.35,Evening Viewing
+627133,male,white,Gauteng,Robby ,Tancredi,23,Youth,1,1,-36817919.23,Morning Viewing
+940974,male,black,Western Cape,Hollis ,Tatham,41,Adult,3,2,-110453757.13,Evening Viewing
+928260,male,indian_asian,Gauteng,Hugh,Pascarella,56,Middle Aged,1,1,-36817919.07,Morning Viewing
+810340,male,coloured,Western Cape,Garry ,Deblois,44,Adult,9,5,-331361224.82,Evening Viewing
+820093,male,white,Western Cape,Shane ,Marek,26,Youth,3,3,-110453759.52,Morning Viewing
+2216357,male,black,Western Cape,Robby ,Styer,35,Adult,6,5,-220907503.85,Afternoon Viewing
+739396,male,coloured,Western Cape,Earl ,Mcculloch,36,Adult,1,1,-36817916.03,Afternoon Viewing
+810586,female,black,Western Cape,Yolonda ,Pascarella,34,Youth,1,1,-36817919.1,Evening Viewing
+908759,male,white,Mpumalanga,Cory ,Singer,37,Adult,2,2,-73635835.57,Morning Viewing
+808853,male,white,Gauteng,Lane ,Pascarella,52,Middle Aged,1,1,-36817910.67,Afternoon Viewing
+773462,male,black,Kwazulu Natal,Efren ,Mcculloch,38,Adult,6,4,-220907493.5,Evening Viewing
+771797,male,None,Gauteng,Randy ,Beville,35,Adult,1,1,-36817919.47,Afternoon Viewing
+820361,male,white,Mpumalanga,Shane ,Biggers,28,Youth,6,3,-220907506,Evening Viewing
+809209,male,None,Western Cape,Garry ,Holt,24,Youth,4,2,-147271597.1,Morning Viewing
+809325,female,black,Eastern Cape,Anette ,Leicht,15,Teen,11,8,-404997027.98,Afternoon Viewing
+940169,male,black,Gauteng,Kyle ,Tancredi,45,Adult,2,2,-73635837.43,Midnight Viewing
+2369191,female,white,Western Cape,Desirae ,Luthy,35,Adult,2,2,-73635823.12,Evening Viewing
+788008,male,indian_asian,Kwazulu Natal,Yong ,Paradis,17,Teen,1,1,-36817919.45,Afternoon Viewing
+779998,male,coloured,Northern Cape,Kip ,Pascarella,29,Youth,1,1,-36817919.83,Morning Viewing
+927119,male,indian_asian,Gauteng,Michel ,Tatham,28,Youth,1,1,-36817859.8,Afternoon Viewing
+867016,male,black,Kwazulu Natal,Stefan ,Biggers,30,Youth,3,2,-110453751.63,Evening Viewing
+221281,None,None,None,None,None,0,Child,2,2,-73635836.4,Evening Viewing
+780111,male,indian_asian,Gauteng,Irving ,Holt,27,Youth,4,2,-147271674.98,Midnight Viewing
+940614,male,indian_asian,Gauteng,Len ,Paradis,32,Youth,1,1,-36817919.03,Evening Viewing
+819867,male,indian_asian,Limpopo,Kip ,Deblois,44,Adult,2,2,-73635834.75,Afternoon Viewing
+810169,male,white,Eastern Cape,Yong ,Arrieta,31,Youth,3,3,-110453752.27,Afternoon Viewing
+641456,male,black,Mpumalanga,Lane ,Mcculloch,27,Youth,3,3,-110453754.15,Afternoon Viewing
+907060,male,indian_asian,Gauteng,Hugh,Lavoie,24,Youth,2,2,-73635830.08,Afternoon Viewing
+907090,male,indian_asian,Gauteng,Carter ,Langenfeld,25,Youth,2,2,-73635837.72,Morning Viewing
+780468,male,black,Gauteng,Stephen ,Deblois,31,Youth,2,2,-73635835.01,Afternoon Viewing
+918956,male,indian_asian,Mpumalanga,Lane ,Tancredi,28,Youth,2,2,-73635838.33,Morning Viewing
+903455,male,None,Gauteng,Hyman ,Mina,68,Retired,1,1,-36817911.5,Evening Viewing
+773384,male,black,Mpumalanga,Jared ,Gettys,46,Adult,5,3,-184089587.92,Afternoon Viewing
+810654,male,coloured,Western Cape,Michel ,Singer,28,Youth,5,4,-184089584.07,Morning Viewing
+808945,male,None,Western Cape,Garry ,Biggers,43,Adult,1,1,-36817919.03,Evening Viewing
+866205,male,indian_asian,Gauteng,Charlie ,Mcclaine,36,Adult,3,2,-110453701,Morning Viewing
+809071,male,black,Gauteng,Hyman ,Hoadley,35,Adult,1,1,-36817918.33,Morning Viewing
+779576,male,None,Kwazulu Natal,Eli ,Curran,22,Youth,5,4,-184089545.93,Evening Viewing
+763525,male,black,Gauteng,Cory ,Holt,37,Adult,1,1,-36817916.2,Evening Viewing
+866941,male,black,Kwazulu Natal,Royal ,Jacox,29,Youth,2,2,-73635794.35,Evening Viewing
+2000285,male,white,Gauteng,Markus ,Slane,30,Youth,2,2,-73635835.43,Morning Viewing
+772614,male,None,Free State,Claud ,Jacox,24,Youth,4,3,-147271665.95,Evening Viewing
+809931,male,black,Gauteng,Stacy ,Vital,34,Youth,6,4,-220907365.9,Evening Viewing
+906341,male,coloured,Gauteng,Jacinto ,Mccown,22,Youth,5,4,-184089597.65,Evening Viewing
+867338,male,black,Gauteng,Kip ,Creager,23,Youth,1,1,-36817919.97,Morning Viewing
+893565,male,black,Eastern Cape,Abel ,Mastrangelo,25,Youth,4,3,-147271637.42,Evening Viewing
+773017,male,coloured,Gauteng,Cody ,Pascarella,23,Youth,7,4,-257725419.35,Evening Viewing
+621261,male,black,North West,Hyman ,Pilot,30,Youth,3,3,-110453749.47,Morning Viewing
+821956,male,black,Gauteng,Valentine ,Paradis,22,Youth,3,2,-110453744.9,Evening Viewing
+822033,male,black,Kwazulu Natal,Hyman ,Beville,40,Adult,3,2,-110453745.62,Evening Viewing
+773141,male,black,Limpopo,Royal ,Lavoie,24,Youth,6,5,-220907456.42,Evening Viewing
+773228,male,white,Limpopo,Irving ,Martello,22,Youth,1,1,-36817883.67,Evening Viewing
+810478,male,None,Limpopo,Garry ,Zweifel,43,Adult,1,1,-36817917.47,Evening Viewing
+102190,male,white,Gauteng,Haywood ,Sieren,42,Adult,1,1,-36817917.33,Afternoon Viewing
+941508,male,indian_asian,Gauteng,Samuel ,Zweifel,45,Adult,2,2,-73635838.95,Evening Viewing
+870709,male,None,Eastern Cape,Lloyd ,Shkreli,36,Adult,1,1,-36817919.42,Morning Viewing
+822557,male,black,Limpopo,Wilton ,Nicholls,27,Youth,9,4,-331361234.38,Morning Viewing
+831732,male,coloured,Gauteng,Chas ,Vital,22,Youth,3,3,-110453747.53,Midnight Viewing
+796033,male,black,Limpopo,Shane ,Curran,25,Youth,1,1,-36817920,Midnight Viewing
+809230,male,black,Gauteng,Markus ,Tancredi,39,Adult,9,2,-331361162.08,Midnight Viewing
+809486,male,white,Gauteng,Shane ,Nicholls,25,Youth,1,1,-36817912.82,Morning Viewing
+809741,male,black,Mpumalanga,Kip ,Lavoie,27,Youth,4,3,-147271667.55,Evening Viewing
+832676,male,white,Gauteng,Jacinto ,Arrieta,26,Youth,7,4,-257725405.03,Morning Viewing
+810235,male,indian_asian,Gauteng,Royal ,Singer,36,Adult,4,2,-147271644.08,Midnight Viewing
+182630,None,None,None,None,None,0,Child,1,1,-36817918.7,Evening Viewing
+810390,male,white,Gauteng,Jacinto ,Curran,38,Adult,4,2,-147271665.7,Morning Viewing
+2205173,male,None,Gauteng,Len ,Deblois,24,Youth,2,2,-73635828.13,Morning Viewing
+755814,male,black,Gauteng,Haywood ,Pilot,25,Youth,7,3,-257725346.67,Evening Viewing
+810534,male,white,Gauteng,Lucas ,Crotty,24,Youth,5,2,-184089510.57,Afternoon Viewing
+928673,male,coloured,Western Cape,Wilton ,Singer,30,Youth,1,1,-36817917.1,Afternoon Viewing
+833543,male,indian_asian,Gauteng,Efren ,Deblois,24,Youth,2,2,-73635812.2,Morning Viewing
+2255518,male,black,Gauteng,Royal ,Caves,56,Middle Aged,7,5,-257725434.82,Afternoon Viewing
+939679,male,coloured,Western Cape,Lucas ,Lavoie,41,Adult,3,2,-110453759.6,Evening Viewing
+809063,male,black,Gauteng,Randy ,Restivo,32,Youth,3,2,-110453752.1,Morning Viewing
+997491,male,black,Western Cape,Lloyd ,Gettys,29,Youth,2,2,-73635840,Evening Viewing
+892643,male,coloured,Western Cape,Valentine ,Borelli,28,Youth,5,3,-184089359.22,Afternoon Viewing
+820601,male,indian_asian,Kwazulu Natal,Stacy ,Pool,35,Adult,3,3,-110453754.5,Morning Viewing
+820685,male,indian_asian,Limpopo,Claud ,Deblois,26,Youth,4,2,-147271673.6,Morning Viewing
+809407,female,black,Limpopo,Rebekah ,Paradis,33,Youth,1,1,-36817893.93,Morning Viewing
+789176,male,coloured,Eastern Cape,Loyd ,Reisinger,30,Youth,1,1,-36817741.78,Midnight Viewing
+33103,male,coloured,Gauteng,Kip ,Nicholls,26,Youth,1,1,-36817916.87,Morning Viewing
+809727,male,indian_asian,Limpopo,Bernardo ,Pilot,26,Youth,2,2,-73635828.43,Evening Viewing
+930935,male,None,Gauteng,Hyman ,Crotty,23,Youth,4,4,-147271653.38,Afternoon Viewing
+649,male,black,Mpumalanga,Bret ,Gettys,31,Youth,2,2,-73635833.47,Morning Viewing
+772952,male,white,Mpumalanga,Dee ,Arrieta,45,Adult,1,1,-36817916.97,Morning Viewing
+941186,male,indian_asian,Gauteng,Stephen ,Mcclaine,36,Adult,3,3,-110453716.28,Evening Viewing
+833313,male,None,Gauteng,Donald ,Pilot,24,Youth,2,2,-73635821.68,Afternoon Viewing
+881861,male,white,Gauteng,Donald ,Shkreli,44,Adult,2,2,-73635834.35,Morning Viewing
+773203,male,black,Gauteng,Charlie ,Vital,32,Youth,2,1,-73635822.13,Afternoon Viewing
+941525,male,indian_asian,Gauteng,Shane ,Pool,41,Adult,3,3,-110453756.3,Morning Viewing
+650987,female,black,Free State,Emilie ,Deblois,44,Adult,1,1,-36817916.03,Evening Viewing
+788794,male,black,Limpopo,Chas ,Hier,24,Youth,4,4,-147271652.75,Evening Viewing
+788856,male,None,Western Cape,Valentine ,Fudge,45,Adult,2,2,-73635819.43,Evening Viewing
+772054,male,white,Western Cape,Earl ,Jacox,27,Youth,3,3,-110453572.77,Evening Viewing
+794031,male,black,Mpumalanga,Cody ,Mcculloch,23,Youth,3,2,-110453718.6,Afternoon Viewing
+809830,female,black,Mpumalanga,Carlota ,Tancredi,38,Adult,3,2,-110453759.46,Evening Viewing
+865774,male,indian_asian,Gauteng,Abel ,Borelli,30,Youth,3,1,-110453636.43,Afternoon Viewing
+920207,male,black,Kwazulu Natal,Wilton ,Paradis,39,Adult,2,2,-73635787.93,Afternoon Viewing
+777965,male,coloured,Western Cape,Lane ,Zweifel,44,Adult,3,2,-110453759.6,Morning Viewing
+539176,male,None,Western Cape,Brendan ,Sieren,49,Adult,1,1,-36817915,Evening Viewing
+833542,male,indian_asian,Gauteng,Hyman ,Hier,49,Adult,6,3,-220907377.83,Afternoon Viewing
+667632,male,None,Western Cape,Dion ,Zweifel,34,Youth,1,1,-36817915.32,Evening Viewing
+870626,male,white,Mpumalanga,Cory ,Borelli,27,Youth,2,1,-73635806.7,Morning Viewing
+889840,male,black,Mpumalanga,Stefan ,Paradis,31,Youth,1,1,-36817920,Evening Viewing
+2203312,male,coloured,Western Cape,Hugh,Leicht,54,Middle Aged,1,1,-36817919.63,Evening Viewing
+808965,male,coloured,Western Cape,Yong ,Gettys,36,Adult,7,4,-257725411.7,Morning Viewing
+866231,male,coloured,Western Cape,Markus ,Pascarella,35,Adult,2,1,-73635830.63,Afternoon Viewing
+820615,male,None,Free State,Dion ,Mcclaine,42,Adult,1,1,-36817917.73,Afternoon Viewing
+788961,male,black,North West,Kyle ,Mccown,62,Middle Aged,3,3,-110453732.47,Afternoon Viewing
+2426477,male,black,Gauteng,Brendan ,Borelli,57,Middle Aged,3,2,-110453677.37,Evening Viewing
+821206,male,white,Gauteng,Royal ,Fudge,41,Adult,1,1,-36817917.43,Afternoon Viewing
+809718,female,black,Eastern Cape,Desirae ,Luthy,17,Teen,4,3,-147271651.74,Evening Viewing
+2370118,male,indian_asian,Gauteng,Donald ,Luthy,35,Adult,2,1,-73635839.6,Afternoon Viewing
+893458,male,indian_asian,Gauteng,Michel ,Vital,30,Youth,6,4,-220907462.45,Afternoon Viewing
+212,male,black,Gauteng,Kyle ,Martello,41,Adult,2,1,-73635812.03,Evening Viewing
+793366,male,white,Kwazulu Natal,Randy ,Pool,35,Adult,3,3,-110453715.14,Evening Viewing
+820067,male,coloured,Free State,Abel ,Creager,54,Middle Aged,2,2,-73635826.17,Morning Viewing
+831514,male,black,Gauteng,Emerson ,Langenfeld,29,Youth,1,1,-36817916.5,Afternoon Viewing
+928317,male,indian_asian,Limpopo,Hollis ,Fudge,28,Youth,1,1,-36817919.67,Afternoon Viewing
+810507,male,coloured,Western Cape,Hugh,Mosser,38,Adult,1,1,-36817874.93,Midnight Viewing
+919220,male,coloured,Western Cape,Markus ,Biggers,22,Youth,1,1,-36817919.33,Morning Viewing
+869062,male,white,Eastern Cape,Brendan ,Paradis,32,Youth,1,1,-36817919.47,Afternoon Viewing
+809183,male,black,Gauteng,Claud ,Marek,44,Adult,1,1,-36817916.5,Evening Viewing
+772068,male,black,Kwazulu Natal,Charlie ,Vital,26,Youth,3,3,-110453708.78,Evening Viewing
+819524,male,coloured,Western Cape,Garry ,Lavoie,40,Adult,2,2,-73635839.57,Morning Viewing
+808236,None,None,None,None,None,0,Child,3,2,-110453751.15,Morning Viewing
+2421222,male,coloured,Gauteng,Lucas ,Tancredi,46,Adult,2,1,-73635822.13,Evening Viewing
+304208,None,None,None,None,None,0,Child,2,2,-73635836.53,Afternoon Viewing
+1107441,female,black,Gauteng,Irmgard ,Bilyeu,16,Teen,1,1,-36817919.9,Afternoon Viewing
+940509,male,other,Western Cape,Bernardo ,Shkreli,26,Youth,6,5,-220907431.19,Evening Viewing
+818125,male,black,Gauteng,Stacy ,Langenfeld,25,Youth,1,1,-36817919.6,Morning Viewing
+772796,male,black,Gauteng,Claud ,Mccollum,13,Teen,2,2,-73635838.95,Morning Viewing
+810047,female,black,Mpumalanga,Minerva ,Marek,46,Adult,2,1,-73635838.63,Evening Viewing
+770384,male,black,Gauteng,Donald ,Holt,23,Youth,2,2,-73635840,Evening Viewing
+2259956,male,black,Gauteng,Randy ,Nicholls,39,Adult,2,1,-73635831.37,Morning Viewing
+3871,None,None,None,None,None,0,Child,1,1,-36817918.83,Evening Viewing
+810525,male,white,Gauteng,Shane ,Zweifel,48,Adult,1,1,-36817915,Evening Viewing
+868055,male,white,Gauteng,Romeo ,Mosser,39,Adult,2,2,-73635837.42,Afternoon Viewing
+931139,male,coloured,Gauteng,Len ,Sieren,25,Youth,1,1,-36817919.37,Morning Viewing
+906690,male,indian_asian,Kwazulu Natal,Hyman ,Roquemore,26,Youth,1,1,-36817920,Evening Viewing
+810105,male,None,Gauteng,Garry ,Mccollum,43,Adult,5,4,-184089489.47,Evening Viewing
+941092,male,other,Kwazulu Natal,Haywood ,Reisinger,25,Youth,2,2,-73635837.67,Evening Viewing
+778267,male,black,Gauteng,Carter ,Pascarella,31,Youth,1,1,-36817919.65,Evening Viewing
+772607,male,coloured,Gauteng,Charlie ,Crotty,24,Youth,1,1,-36817904.05,Afternoon Viewing
+804996,male,coloured,Kwazulu Natal,Randy ,Mcculloch,33,Youth,3,2,-110453751.08,Evening Viewing
+870480,male,None,North West,Lane ,Crotty,38,Adult,1,1,-36817919.3,Evening Viewing
+755058,male,white,Eastern Cape,Cory ,Styer,40,Adult,1,1,-36817918.4,Morning Viewing
+831660,male,white,Gauteng,Chas ,Singer,39,Adult,1,1,-36817919.77,Afternoon Viewing
+822507,None,None,None,None,None,0,Child,4,3,-147271672.38,Afternoon Viewing
+771924,female,black,Gauteng,Yolonda ,Pascarella,31,Youth,1,1,-36817918.82,Morning Viewing
+480591,None,None,None,None,None,0,Child,1,1,-36817911.93,Morning Viewing
+859790,male,white,Western Cape,Hyman ,Gettys,33,Youth,1,1,-36817919.8,Evening Viewing
+895624,female,black,Kwazulu Natal,Shandra ,Mccollum,42,Adult,2,2,-73635839.25,Evening Viewing
+906945,male,None,Gauteng,Lucas ,Arrieta,29,Youth,1,1,-36817919.95,Evening Viewing
+2428091,male,coloured,Western Cape,Stacy ,Pool,31,Youth,1,1,-36817918.63,Evening Viewing
+920661,male,black,Gauteng,Jacinto ,Mcclaine,35,Adult,1,1,-36817919.68,Morning Viewing
+615496,None,None,None,None,None,0,Child,2,2,-73635833.21,Afternoon Viewing
+822091,male,indian_asian,Gauteng,Royal ,Styer,30,Youth,1,1,-36817914.8,Afternoon Viewing
+907569,male,white,Gauteng,Hollis ,Mina,35,Adult,1,1,-36817919.53,Morning Viewing
+2371031,male,coloured,Western Cape,Bernardo ,Pascarella,55,Middle Aged,3,2,-110453750.67,Evening Viewing
+805211,male,None,Western Cape,Eli ,Bilyeu,37,Adult,2,2,-73635839.07,Afternoon Viewing
+868038,male,white,Gauteng,Robby ,Sytsma,40,Adult,1,1,-36817866.43,Afternoon Viewing
+810695,male,None,Western Cape,Valentine ,Gettys,38,Adult,1,1,-36817919.63,Morning Viewing
+808936,male,white,Gauteng,Valentine ,Slane,23,Youth,2,1,-73635834.17,Afternoon Viewing
+892878,male,black,Kwazulu Natal,Jacinto ,Holt,29,Youth,3,3,-110453739.47,Afternoon Viewing
+832560,male,black,Gauteng,Charlie ,Biggers,32,Youth,1,1,-36817919.53,Afternoon Viewing
+920083,male,indian_asian,Gauteng,Emerson ,Mina,37,Adult,1,1,-36817918.85,Morning Viewing
+818570,male,black,Kwazulu Natal,Filiberto ,Mosser,29,Youth,1,1,-36817919.85,Afternoon Viewing
+833128,male,black,Gauteng,Charlie ,Leicht,30,Youth,3,3,-110453748.8,Afternoon Viewing
+582881,female,coloured,Northern Cape,Epifania ,Crotty,20,Youth,1,1,-36817905.55,Afternoon Viewing
+951970,female,black,Eastern Cape,Seema ,Fudge,31,Youth,1,1,-36817920,Afternoon Viewing
+2090538,male,indian_asian,Gauteng,Stephen ,Jacox,39,Adult,1,1,-36817890.07,Afternoon Viewing
+788788,male,black,Kwazulu Natal,Len ,Styer,40,Adult,1,1,-36817915.87,Evening Viewing
+866335,male,black,Gauteng,Art ,Styer,32,Youth,1,1,-36817918.5,Afternoon Viewing
+892715,male,black,Gauteng,Emerson ,Slane,32,Youth,1,1,-36817907.55,Afternoon Viewing
+2420731,male,black,Gauteng,Wilburn ,Marek,43,Adult,1,1,-36817906.3,Evening Viewing
+892947,male,black,Mpumalanga,Michel ,Hier,28,Youth,1,1,-36817918.2,Evening Viewing
+851227,male,black,Gauteng,Irving ,Mastrangelo,32,Youth,1,1,-36817909.97,Morning Viewing
+809469,male,white,Free State,Shane ,Wigfall,44,Adult,1,1,-36817918.1,Evening Viewing
+56067,male,black,Kwazulu Natal,Eli ,Shkreli,26,Youth,1,1,-36817919.63,Evening Viewing
+880965,male,black,Eastern Cape,Kyle ,Sytsma,32,Youth,2,2,-73635839.4,Morning Viewing
+940436,male,indian_asian,Free State,Lane ,Mccown,29,Youth,1,1,-36817905.9,Afternoon Viewing
+809694,male,black,Free State,Cory ,Tancredi,38,Adult,2,2,-73635796.9,Afternoon Viewing
+861451,male,None,Gauteng,Hollis ,Vital,55,Middle Aged,1,1,-36817917.4,Afternoon Viewing
+853655,male,black,Gauteng,Earl ,Restivo,20,Youth,1,1,-36817920,Afternoon Viewing
+892577,male,black,Mpumalanga,Lloyd ,Fudge,30,Youth,2,1,-73635824.62,Morning Viewing
+892732,male,black,Gauteng,Bret ,Tancredi,25,Youth,1,1,-36817904.35,Morning Viewing
+788992,male,black,Gauteng,Robby ,Pascarella,29,Youth,1,1,-36817916.65,Morning Viewing
+772355,female,None,Gauteng,Shelley ,Reisinger,25,Youth,1,1,-36817918.33,Morning Viewing
+809798,male,None,Kwazulu Natal,Eli ,Beville,29,Youth,1,1,-36817918.8,Afternoon Viewing
+902099,male,white,Gauteng,Royal ,Holt,56,Middle Aged,1,1,-36817919.43,Afternoon Viewing
+819869,male,coloured,Eastern Cape,Lloyd ,Roquemore,46,Adult,1,1,-36817915.2,Evening Viewing
+907294,male,indian_asian,Gauteng,Jared ,Caves,29,Youth,1,1,-36817819.83,Afternoon Viewing
+790102,male,indian_asian,Limpopo,Randy ,Bilyeu,32,Youth,1,1,-36817918.8,Evening Viewing
+853573,male,other,Gauteng,Stacy ,Marek,40,Adult,1,1,-36817919.73,Evening Viewing
+771823,male,black,Western Cape,Kyle ,Mastrangelo,26,Youth,1,1,-36817918.75,Afternoon Viewing
+792729,None,None,None,None,None,0,Child,1,1,-36817918,Evening Viewing
+866295,male,None,Gauteng,Randy ,Hoadley,43,Adult,1,1,-36817873.2,Afternoon Viewing
+788877,female,coloured,Western Cape,Katharina ,Condie,26,Youth,4,3,-147271668.46,Afternoon Viewing
+772474,male,coloured,Western Cape,Markus ,Crotty,26,Youth,1,1,-36817918.6,Afternoon Viewing
+867137,male,black,Gauteng,Jared ,Shkreli,29,Youth,1,1,-36817916.4,Afternoon Viewing
+789766,male,black,Free State,Bret ,Restivo,18,Youth,1,1,-36817915.8,Afternoon Viewing
+907441,male,None,Western Cape,Lucas ,Deblois,33,Youth,1,1,-36817918.73,Morning Viewing
+908022,male,indian_asian,Limpopo,Wilburn ,Bilyeu,39,Adult,1,1,-36817851.53,Afternoon Viewing
+2216512,male,None,Western Cape,Lloyd ,Curran,50,Middle Aged,1,1,-36817911.73,Afternoon Viewing
+894183,female,black,Gauteng,Dia ,Arrieta,34,Youth,2,1,-73635808.6,Morning Viewing
+830836,male,None,Free State,Yong ,Holt,21,Youth,1,1,-36817919.88,Afternoon Viewing
+939592,male,coloured,Western Cape,Brendan ,Mccown,34,Youth,1,1,-36817902.47,Afternoon Viewing
+833923,None,None,None,None,None,0,Child,1,1,-36817882.17,Afternoon Viewing
+797667,male,white,North West,Abel ,Hier,29,Youth,1,1,-36817919.5,Evening Viewing
+772271,male,None,Western Cape,Wilburn ,Lavoie,34,Youth,2,2,-73635837,Morning Viewing
+772478,male,black,Mpumalanga,Samuel ,Mosser,24,Youth,1,1,-36817916.55,Morning Viewing
+366659,None,None,None,None,None,0,Child,1,1,-36817875.07,Evening Viewing
+2204439,male,white,Western Cape,Romeo ,Sieren,61,Middle Aged,1,1,-36817911.4,Afternoon Viewing
+892225,male,None,Western Cape,Hugh,Shkreli,36,Adult,2,2,-73635836.13,Evening Viewing
+893986,male,black,Kwazulu Natal,Jared ,Mina,40,Adult,1,1,-36817873.8,Afternoon Viewing
+773406,male,black,Gauteng,Michel ,Tancredi,44,Adult,1,1,-36817909.25,Evening Viewing
+733281,male,black,Gauteng,Bret ,Mcclaine,35,Adult,1,1,-36817919.9,Evening Viewing
+808997,male,black,Limpopo,Shane ,Mccown,27,Youth,6,2,-220907484.25,Morning Viewing
+2368945,female,coloured,Western Cape,Luanna ,Hoadley,42,Adult,2,1,-73635709.6,Morning Viewing
+831147,male,None,Gauteng,Michel ,Leicht,27,Youth,1,1,-36817917.17,Morning Viewing
+789295,female,white,Western Cape,Eula ,Mccown,35,Adult,1,1,-36817919.5,Morning Viewing
+530287,male,indian_asian,Mpumalanga,Brendan ,Langenfeld,33,Youth,1,1,-36817919.17,Afternoon Viewing
+892147,None,None,None,None,None,0,Child,1,1,-36817906.33,Afternoon Viewing
+873453,male,black,Mpumalanga,Carter ,Lavoie,48,Adult,1,1,-36817920,Afternoon Viewing
+810455,male,None,Gauteng,Robby ,Reisinger,65,Retired,2,2,-73635836.47,Evening Viewing
+822256,male,black,Kwazulu Natal,Loyd ,Leicht,10,Child,1,1,-36817919.95,Evening Viewing
+1109200,male,coloured,Western Cape,Samuel ,Jacox,36,Adult,1,1,-36817918.2,Evening Viewing
+2205520,male,black,Gauteng,Samuel ,Lavoie,41,Adult,1,1,-36817902.42,Evening Viewing
+819202,male,None,Gauteng,Eli ,Pascarella,48,Adult,2,1,-73635727.57,Afternoon Viewing
+903994,male,coloured,Western Cape,Bernardo ,Hier,33,Youth,1,1,-36817918,Evening Viewing
+791320,female,indian_asian,Kwazulu Natal,Shandra ,Mccollum,37,Adult,3,1,-110453732.8,Morning Viewing
+939602,male,coloured,Eastern Cape,Lane ,Mastrangelo,18,Youth,12,6,-441814961.43,Morning Viewing
+593622,female,black,Gauteng,Meghann ,Curran,27,Youth,1,1,-36817911,Afternoon Viewing
+809015,female,coloured,Eastern Cape,Minerva ,Marek,31,Youth,10,4,-368179109.33,Morning Viewing
+939695,female,black,Gauteng,Nubia ,Sytsma,31,Youth,3,3,-110453717.58,Evening Viewing
+820566,female,black,Gauteng,Mellie ,Creager,27,Youth,3,3,-110453755.42,Afternoon Viewing
+850900,female,black,Gauteng,Yolonda ,Pascarella,29,Youth,2,2,-73635837.72,Afternoon Viewing
+930443,female,indian_asian,Gauteng,Seema ,Fudge,47,Adult,1,1,-36817919.78,Evening Viewing
+809382,male,black,Gauteng,Dion ,Nicholls,24,Youth,2,2,-73635820.84,Evening Viewing
+820978,male,black,Northern Cape,Emerson ,Singer,39,Adult,10,7,-368179121.28,Evening Viewing
+772309,male,black,Gauteng,Art ,Arrieta,35,Adult,6,3,-220907352.67,Morning Viewing
+2426740,male,coloured,Western Cape,Samuel ,Beville,37,Adult,5,4,-184089576.93,Afternoon Viewing
+866878,male,white,Eastern Cape,Stacy ,Styer,36,Adult,5,4,-184089563.7,Midnight Viewing
+626745,male,black,Limpopo,Romeo ,Mccollum,30,Youth,7,6,-257725400.78,Morning Viewing
+2406577,male,black,Gauteng,Dion ,Tatham,29,Youth,5,3,-184089574.22,Afternoon Viewing
+2204195,male,indian_asian,North West,Samuel ,Slane,45,Adult,3,2,-110453731.07,Afternoon Viewing
+549969,male,indian_asian,Mpumalanga,Stacy ,Pool,21,Youth,3,2,-110453698.53,Morning Viewing
+809817,male,black,Western Cape,Jacinto ,Arrieta,27,Youth,4,3,-147271668.66,Afternoon Viewing
+804459,female,black,Gauteng,Roxane ,Lavoie,30,Youth,2,2,-73635816.48,Evening Viewing
+604198,male,other,Western Cape,Claud ,Langenfeld,32,Youth,5,4,-184089569.55,Evening Viewing
+821559,male,coloured,Western Cape,Hugh,Caves,38,Adult,2,2,-73635814.93,Morning Viewing
+810011,male,black,Kwazulu Natal,Emerson ,Luthy,32,Youth,10,6,-368179170.43,Afternoon Viewing
+893568,female,black,Eastern Cape,Bess ,Jacox,23,Youth,1,1,-36817919.87,Midnight Viewing
+135780,male,black,Kwazulu Natal,Wilburn ,Bilyeu,47,Adult,1,1,-36817918.63,Evening Viewing
+867459,male,white,Gauteng,Hollis ,Mastrangelo,19,Youth,2,2,-73635834.95,Morning Viewing
+819998,male,black,Mpumalanga,Stacy ,Holt,22,Youth,5,3,-184089571.19,Afternoon Viewing
+2288719,male,black,Limpopo,Cory ,Mccown,61,Middle Aged,4,3,-147271675.13,Morning Viewing
+2288835,male,coloured,Western Cape,Randy ,Mcculloch,42,Adult,1,1,-36817919.98,Afternoon Viewing
+2288904,male,black,Gauteng,Markus ,Sytsma,35,Adult,6,3,-220907480.02,Afternoon Viewing
+785968,male,white,Gauteng,Donald ,Woolard,39,Adult,1,1,-36817918.23,Morning Viewing
+56830,None,None,None,None,None,0,Child,3,3,-110453736.02,Morning Viewing
+941547,male,white,Eastern Cape,Bret ,Hier,20,Youth,1,1,-36817911.35,Morning Viewing
+810776,male,None,Western Cape,Lloyd ,Hoadley,32,Youth,2,2,-73635839.57,Morning Viewing
+809008,male,coloured,Northern Cape,Haywood ,Pascarella,28,Youth,7,6,-257725402.51,Afternoon Viewing
+596302,male,white,Gauteng,Lloyd ,Reisinger,50,Middle Aged,1,1,-36817918.68,Evening Viewing
+2287109,male,black,Western Cape,Hyman ,Mcclaine,27,Youth,2,1,-73635839.78,Midnight Viewing
+866643,male,black,Mpumalanga,Irving ,Wigfall,22,Youth,4,4,-147271651.79,Morning Viewing
+2369183,male,indian_asian,North West,Romeo ,Martello,25,Youth,1,1,-36817900.5,Afternoon Viewing
+930826,male,indian_asian,Gauteng,Claud ,Caves,38,Adult,1,1,-36817918.83,Afternoon Viewing
+821312,male,white,Gauteng,Abel ,Vital,35,Adult,1,1,-36817917.43,Afternoon Viewing
+2204240,male,coloured,Western Cape,Claud ,Roquemore,34,Youth,2,2,-73635839.32,Evening Viewing
+940664,female,black,Northern Cape,Alecia ,Roquemore,36,Adult,21,7,-773176161.43,Afternoon Viewing
+893445,male,coloured,Western Cape,Eli ,Condie,33,Youth,6,2,-220907495.42,Morning Viewing
+2017664,female,black,Free State,Luann ,Mina,41,Adult,2,2,-73635832.38,Evening Viewing
+810077,male,coloured,Northern Cape,Chas ,Singer,57,Middle Aged,13,7,-478632850.63,Afternoon Viewing
+788281,male,None,Gauteng,Valentine ,Tatham,25,Youth,2,2,-73635814.4,Evening Viewing
+810113,male,coloured,Eastern Cape,Charlie ,Leicht,27,Youth,6,4,-220907513.07,Evening Viewing
+549843,female,black,North West,Shandra ,Mccollum,24,Youth,3,2,-110453756.37,Morning Viewing
+765679,male,black,North West,Royal ,Mina,42,Adult,4,3,-147271676.06,Morning Viewing
+955342,male,indian_asian,Gauteng,Donald ,Tancredi,31,Youth,1,1,-36817920,Afternoon Viewing
+2361615,male,None,Mpumalanga,Raymundo ,Roquemore,44,Adult,1,1,-36817902.1,Midnight Viewing
+2288636,male,black,Limpopo,Stacy ,Crotty,22,Youth,1,1,-36817919.81,Evening Viewing
+822018,male,white,Western Cape,Filiberto ,Bilyeu,35,Adult,5,3,-184089591.92,Evening Viewing
+941227,male,black,Kwazulu Natal,Lane ,Singer,39,Adult,2,2,-73635839.61,Evening Viewing
+907574,male,white,Gauteng,Robby ,Gettys,46,Adult,1,1,-36817917.35,Morning Viewing
+773248,male,white,Gauteng,Randy ,Gettys,39,Adult,1,1,-36817905.48,Evening Viewing
+909505,male,white,Eastern Cape,Raymundo ,Paradis,36,Adult,1,1,-36817916.07,Afternoon Viewing
+883295,female,black,Gauteng,Emilie ,Deblois,43,Adult,1,1,-36817919.96,Evening Viewing
+809094,male,coloured,Northern Cape,Jacinto ,Hoadley,37,Adult,4,4,-147271676.15,Evening Viewing
+809304,male,black,Mpumalanga,Cody ,Roquemore,49,Adult,3,3,-110453746.02,Morning Viewing
+2090836,male,coloured,Western Cape,Len ,Borelli,30,Youth,4,3,-147271648.75,Afternoon Viewing
+850050,None,None,None,None,None,0,Child,2,2,-73635837.22,Midnight Viewing
+779859,male,black,Gauteng,Michel ,Arrieta,20,Youth,4,3,-147271656,Evening Viewing
+893076,male,white,Gauteng,Efren ,Styer,31,Youth,1,1,-36817919.47,Evening Viewing
+940374,male,coloured,Western Cape,Stefan ,Paradis,37,Adult,1,1,-36817919.13,Morning Viewing
+2091234,male,black,Gauteng,Raymundo ,Caves,42,Adult,2,2,-73635756.73,Morning Viewing
+870104,male,indian_asian,Gauteng,Filiberto ,Paradis,26,Youth,2,1,-73635829.67,Evening Viewing
+927257,male,indian_asian,Gauteng,Abel ,Curran,27,Youth,1,1,-36817914.57,Morning Viewing
+809781,male,coloured,Western Cape,Cory ,Holt,29,Youth,1,1,-36817916.1,Afternoon Viewing
+893233,male,coloured,Northern Cape,Carter ,Tancredi,26,Youth,7,6,-257725424,Afternoon Viewing
+772988,male,black,Gauteng,Shane ,Restivo,31,Youth,7,3,-257725335.11,Evening Viewing
+833324,male,white,Gauteng,Stephen ,Lavoie,28,Youth,2,2,-73635827.8,Afternoon Viewing
+903476,male,coloured,Free State,Art ,Condie,43,Adult,1,1,-36817917.33,Afternoon Viewing
+891436,male,coloured,Western Cape,Lloyd ,Caves,30,Youth,1,1,-36817920,Afternoon Viewing
+773320,male,coloured,Western Cape,Haywood ,Leicht,46,Adult,1,1,-36817908.3,Evening Viewing
+780656,male,black,Gauteng,Wilton ,Fudge,45,Adult,1,1,-36817906.5,Evening Viewing
+822343,male,None,Gauteng,Jacinto ,Borelli,41,Adult,1,1,-36817905.58,Evening Viewing
+810614,male,black,Mpumalanga,Wilburn ,Luthy,28,Youth,1,1,-36817917.77,Afternoon Viewing
+822441,female,black,Free State,Loris ,Hier,38,Adult,1,1,-36817918.22,Evening Viewing
+787656,male,black,Gauteng,Garry ,Sytsma,26,Youth,1,1,-36817908.75,Morning Viewing
+2368852,male,black,Mpumalanga,Filiberto ,Slane,35,Adult,16,10,-589086660.55,Morning Viewing
+809264,male,white,Gauteng,Kyle ,Beville,24,Youth,15,5,-552268619.28,Midnight Viewing
+940170,male,black,Kwazulu Natal,Markus ,Beville,31,Youth,1,1,-36817919.87,Evening Viewing
+892659,male,black,North West,Valentine ,Mastrangelo,45,Adult,2,2,-73635821.05,Evening Viewing
+871104,None,None,None,None,None,0,Child,4,4,-147271673.07,Afternoon Viewing
+779975,female,black,Western Cape,Eula ,Mccown,36,Adult,2,2,-73635836.67,Midnight Viewing
+786757,male,black,Northern Cape,Eli ,Mcclaine,35,Adult,1,1,-36817918.26,Afternoon Viewing
+2091280,male,black,Gauteng,Jacinto ,Sieren,22,Youth,5,4,-184089564.74,Evening Viewing
+868524,None,None,None,None,None,36,Adult,3,3,-110453759.26,Evening Viewing
+860414,male,coloured,Gauteng,Efren ,Jacox,25,Youth,1,1,-36817920,Evening Viewing
+851705,male,black,Eastern Cape,Valentine ,Paradis,40,Adult,2,2,-73635835.3,Afternoon Viewing
+1107846,male,coloured,Western Cape,Markus ,Mcclaine,39,Adult,3,2,-110453759.57,Afternoon Viewing
+931297,male,indian_asian,Limpopo,Jacinto ,Pool,27,Youth,2,2,-73635835.53,Afternoon Viewing
+778034,male,black,Gauteng,Emerson ,Mina,32,Youth,3,2,-110453718.76,Evening Viewing
+907101,male,indian_asian,Kwazulu Natal,Loyd ,Hoadley,37,Adult,1,1,-36817919.15,Afternoon Viewing
+833161,male,coloured,Western Cape,Abel ,Slane,32,Youth,1,1,-36817919.33,Evening Viewing
+892297,male,indian_asian,Kwazulu Natal,Kip ,Hoadley,29,Youth,3,3,-110453641.03,Morning Viewing
+870332,male,None,Limpopo,Hollis ,Sieren,24,Youth,3,3,-110453713.1,Evening Viewing
+1108944,male,coloured,Western Cape,Dee ,Curran,9,Child,2,2,-73635836.92,Afternoon Viewing
+907557,female,white,Gauteng,Luanna ,Hoadley,40,Adult,1,1,-36817919.23,Morning Viewing
+2371165,male,black,Gauteng,Claud ,Sieren,42,Adult,1,1,-36817908.42,Morning Viewing
+831650,male,coloured,Western Cape,Cory ,Langenfeld,51,Middle Aged,1,1,-36817910.3,Afternoon Viewing
+810756,male,None,Western Cape,Michel ,Luthy,41,Adult,1,1,-36817864.73,Evening Viewing
+2205568,male,coloured,Western Cape,Garry ,Beville,45,Adult,2,2,-73635815.52,Morning Viewing
+795012,male,black,Mpumalanga,Emerson ,Beville,27,Youth,5,3,-184089587.5,Midnight Viewing
+771881,male,black,Gauteng,Emerson ,Reisinger,31,Youth,4,3,-147271678.88,Morning Viewing
+892554,male,coloured,Western Cape,Dee ,Biggers,31,Youth,1,1,-36817916.93,Morning Viewing
+771903,male,None,Gauteng,Earl ,Slane,28,Youth,1,1,-36817918.73,Afternoon Viewing
+869019,male,white,Gauteng,Raymundo ,Reisinger,42,Adult,2,2,-73635836.35,Morning Viewing
+802485,male,white,Gauteng,Emerson ,Jacox,34,Youth,3,2,-110453726.05,Afternoon Viewing
+788922,male,coloured,Western Cape,Cory ,Fudge,52,Middle Aged,2,1,-73635837.27,Evening Viewing
+2203620,male,black,Gauteng,Bret ,Pool,40,Adult,3,2,-110453668.93,Afternoon Viewing
+1106652,male,black,Gauteng,Kip ,Curran,20,Youth,2,2,-73635838.27,Morning Viewing
+892821,male,white,Gauteng,Efren ,Hier,34,Youth,2,1,-73635778.07,Morning Viewing
+926512,male,indian_asian,Limpopo,Jacinto ,Tatham,29,Youth,1,1,-36817857.53,Afternoon Viewing
+894473,male,indian_asian,Mpumalanga,Michel ,Mosser,38,Adult,3,1,-110453705.73,Afternoon Viewing
+809315,male,black,Free State,Stefan ,Mccown,34,Youth,2,2,-73635828.24,Morning Viewing
+866564,male,indian_asian,Gauteng,Cody ,Styer,30,Youth,2,2,-73635820.47,Morning Viewing
+809387,male,white,North West,Cory ,Sieren,24,Youth,1,1,-36817919.41,Afternoon Viewing
+803990,female,black,Free State,Emilie ,Deblois,27,Youth,2,2,-73635833.72,Afternoon Viewing
+789133,female,black,Mpumalanga,Lillian ,Borelli,33,Youth,3,3,-110453735.01,Morning Viewing
+220098,male,white,Eastern Cape,Romeo ,Singer,21,Youth,4,3,-147271604.58,Morning Viewing
+930873,male,indian_asian,Kwazulu Natal,Donald ,Roquemore,28,Youth,1,1,-36817918.67,Evening Viewing
+867091,female,black,Gauteng,Trudie ,Restivo,30,Youth,1,1,-36817918.6,Evening Viewing
+893337,male,indian_asian,Gauteng,Len ,Woolard,33,Youth,2,2,-73635838.57,Afternoon Viewing
+940749,male,coloured,Western Cape,Jared ,Beville,30,Youth,6,3,-220907509.45,Evening Viewing
+833185,female,white,Free State,Epifania ,Crotty,31,Youth,1,1,-36817919.72,Afternoon Viewing
+893834,male,black,Limpopo,Stacy ,Singer,25,Youth,11,6,-404997071.83,Afternoon Viewing
+810310,male,white,Eastern Cape,Wilburn ,Tatham,28,Youth,1,1,-36817917.6,Afternoon Viewing
+803152,male,None,Eastern Cape,Lane ,Tatham,47,Adult,1,1,-36817915.83,Evening Viewing
+843200,female,white,Gauteng,Nubia ,Sytsma,40,Adult,1,1,-36817920,Evening Viewing
+941456,male,coloured,Eastern Cape,Len ,Caves,20,Youth,2,2,-73635749.43,Midnight Viewing
+803296,None,None,None,None,None,0,Child,1,1,-36817905.77,Afternoon Viewing
+894107,male,black,Gauteng,Robby ,Mosser,27,Youth,1,1,-36817800.2,Evening Viewing
+908535,male,black,Gauteng,Donald ,Gettys,41,Adult,1,1,-36817918.47,Afternoon Viewing
+773444,male,white,Limpopo,Loyd ,Crotty,61,Middle Aged,2,1,-73635839.33,Morning Viewing
+822432,male,None,Kwazulu Natal,Michel ,Arrieta,20,Youth,1,1,-36817919.8,Afternoon Viewing
+868043,male,white,Gauteng,Loyd ,Mina,19,Youth,4,3,-147271635.32,Morning Viewing
+2371360,male,black,Western Cape,Michel ,Pascarella,28,Youth,2,2,-73635839.77,Evening Viewing
+939680,male,white,Gauteng,Art ,Restivo,19,Youth,6,4,-220907495.28,Afternoon Viewing
+771959,male,black,Western Cape,Len ,Tancredi,28,Youth,1,1,-36817919.65,Afternoon Viewing
+830954,None,None,None,None,None,0,Child,1,1,-36817903.3,Morning Viewing
+859548,female,None,Western Cape,Zetta ,Gettys,32,Youth,2,1,-73635837.47,Evening Viewing
+809226,male,coloured,Western Cape,Yong ,Mccollum,34,Youth,5,5,-184089553.38,Evening Viewing
+703886,male,indian_asian,Mpumalanga,Wilburn ,Pascarella,20,Youth,2,2,-73635838.03,Afternoon Viewing
+809338,male,black,Kwazulu Natal,Garry ,Wigfall,31,Youth,1,1,-36817919.63,Evening Viewing
+940201,male,black,Gauteng,Art ,Hoadley,34,Youth,4,3,-147271676.58,Evening Viewing
+452804,None,None,None,None,None,0,Child,1,1,-36817920,Evening Viewing
+729721,male,black,Mpumalanga,Filiberto ,Mosser,35,Adult,3,2,-110453756.27,Afternoon Viewing
+789376,male,black,Gauteng,Haywood ,Martello,49,Adult,1,1,-36817869.57,Evening Viewing
+772528,female,black,Mpumalanga,Briana ,Caves,32,Youth,4,4,-147271659.88,Afternoon Viewing
+809800,male,coloured,Western Cape,Randy ,Nicholls,48,Adult,2,2,-73635829.6,Morning Viewing
+867058,male,black,Limpopo,Randy ,Hoadley,18,Youth,3,3,-110453759.42,Evening Viewing
+819774,male,indian_asian,Gauteng,Loyd ,Woolard,25,Youth,4,2,-147271624.67,Morning Viewing
+940602,male,indian_asian,Gauteng,Yong ,Bilyeu,32,Youth,2,2,-73635838.68,Morning Viewing
+786910,male,black,Eastern Cape,Stephen ,Nicholls,33,Youth,5,2,-184089598.55,Evening Viewing
+804535,male,white,Northern Cape,Carter ,Condie,20,Youth,2,2,-73635807.25,Midnight Viewing
+810144,male,black,Western Cape,Charlie ,Hier,28,Youth,2,2,-73635832.45,Morning Viewing
+785792,female,black,North West,Dia ,Arrieta,34,Youth,1,1,-36817920,Afternoon Viewing
+820061,male,white,Gauteng,Jacinto ,Pool,31,Youth,4,1,-147271672.23,Morning Viewing
+585356,male,coloured,Western Cape,Randy ,Mcculloch,43,Adult,1,1,-36817919.93,Evening Viewing
+867895,female,black,Gauteng,Luanna ,Hoadley,31,Youth,3,2,-110453745.03,Morning Viewing
+810627,male,black,Mpumalanga,Art ,Mosser,26,Youth,4,2,-147271664.63,Afternoon Viewing
+882193,female,indian_asian,Gauteng,Luanna ,Hoadley,33,Youth,2,1,-73635819.43,Afternoon Viewing
+882376,male,white,Gauteng,Len ,Sieren,54,Middle Aged,1,1,-36817918.8,Afternoon Viewing
+904411,male,indian_asian,Gauteng,Royal ,Borelli,26,Youth,2,2,-73635831.27,Evening Viewing
+2368726,male,None,Gauteng,Bernardo ,Reisinger,46,Adult,1,1,-36817852.8,Morning Viewing
+892807,male,indian_asian,Mpumalanga,Irving ,Pool,28,Youth,1,1,-36817918.43,Afternoon Viewing
+820910,male,black,Mpumalanga,Filiberto ,Marek,27,Youth,5,2,-184089428.2,Morning Viewing
+2165751,male,black,Mpumalanga,Len ,Shkreli,19,Youth,1,1,-36817915.85,Afternoon Viewing
+880898,male,indian_asian,Limpopo,Robby ,Langenfeld,59,Middle Aged,1,1,-36817873.53,Afternoon Viewing
+877249,male,white,Gauteng,Claud ,Mastrangelo,20,Youth,1,1,-36817918.5,Morning Viewing
+543441,male,white,Gauteng,Stephen ,Zweifel,25,Youth,1,1,-36817916.17,Morning Viewing
+831314,male,black,North West,Chas ,Mastrangelo,19,Youth,2,1,-73635837.55,Evening Viewing
+867616,male,black,Gauteng,Haywood ,Tatham,31,Youth,3,3,-110453757.68,Evening Viewing
+810291,male,white,Mpumalanga,Lucas ,Caves,19,Youth,2,1,-73635808.9,Evening Viewing
+810474,female,indian_asian,Gauteng,Malika ,Sieren,32,Youth,1,1,-36817919.45,Evening Viewing
+2361890,male,white,Gauteng,Loyd ,Luthy,43,Adult,1,1,-36817887.77,Evening Viewing
+780650,male,black,Mpumalanga,Romeo ,Bilyeu,41,Adult,3,1,-110453745.27,Afternoon Viewing
+773487,male,coloured,Kwazulu Natal,Kip ,Creager,30,Youth,2,2,-73635835.85,Morning Viewing
+919222,male,black,Limpopo,Dee ,Curran,26,Youth,1,1,-36817920,Evening Viewing
+779485,male,black,North West,Yong ,Reisinger,25,Youth,7,5,-257725239.98,Evening Viewing
+2090791,female,indian_asian,Kwazulu Natal,Loris ,Hier,13,Teen,1,1,-36817918.22,Morning Viewing
+305730,female,black,Kwazulu Natal,Mellie ,Creager,30,Youth,2,2,-73635823.1,Morning Viewing
+866864,male,indian_asian,Gauteng,Haywood ,Styer,29,Youth,1,1,-36817912.83,Afternoon Viewing
+2421326,male,None,Western Cape,Emerson ,Marek,44,Adult,2,2,-73635817.98,Morning Viewing
+765182,male,black,Western Cape,Loyd ,Sytsma,35,Adult,1,1,-36817899,Evening Viewing
+772584,male,black,Gauteng,Efren ,Woolard,24,Youth,1,1,-36817918.7,Morning Viewing
+719575,male,coloured,Western Cape,Jacinto ,Bilyeu,38,Adult,3,3,-110453733.12,Afternoon Viewing
+804480,male,coloured,Western Cape,Lane ,Beville,50,Middle Aged,1,1,-36817919.98,Midnight Viewing
+867252,male,indian_asian,Gauteng,Earl ,Sytsma,22,Youth,1,1,-36817918.25,Evening Viewing
+609311,None,None,None,None,None,0,Child,1,1,-36817908.96,Midnight Viewing
+793382,None,None,None,None,None,0,Child,3,2,-110453576.33,Evening Viewing
+907539,male,black,Gauteng,Markus ,Mccollum,40,Adult,1,1,-36817912.6,Afternoon Viewing
+805113,male,white,Gauteng,Wilton ,Pascarella,39,Adult,2,1,-73635836.67,Afternoon Viewing
+822466,male,None,Western Cape,Wilburn ,Caves,58,Middle Aged,1,1,-36817919.35,Morning Viewing
+805296,male,None,Gauteng,Jacinto ,Bilyeu,67,Retired,1,1,-36817903.07,Evening Viewing
+861590,male,white,Gauteng,Filiberto ,Singer,45,Adult,1,1,-36817898.8,Evening Viewing
+939606,male,coloured,Western Cape,Cory ,Gettys,38,Adult,1,1,-36817919.27,Morning Viewing
+859803,male,black,Western Cape,Jacinto ,Pool,41,Adult,1,1,-36817920,Morning Viewing
+820924,male,indian_asian,Gauteng,Stefan ,Martello,29,Youth,2,1,-73635797.07,Afternoon Viewing
+2426685,male,indian_asian,Limpopo,Len ,Wigfall,27,Youth,1,1,-36817919.6,Morning Viewing
+860115,male,black,Gauteng,Chas ,Pilot,25,Youth,2,2,-73635839.18,Morning Viewing
+925280,male,indian_asian,Limpopo,Shane ,Woolard,24,Youth,2,1,-73635830.87,Afternoon Viewing
+940595,male,black,Limpopo,Royal ,Bilyeu,31,Youth,1,1,-36817919.86,Midnight Viewing
+809886,male,coloured,Western Cape,Cory ,Hier,46,Adult,1,1,-36817919.1,Morning Viewing
+1108125,male,black,Gauteng,Len ,Biggers,27,Youth,6,5,-220907509.07,Morning Viewing
+893645,male,white,Mpumalanga,Jared ,Nicholls,26,Youth,1,1,-36817853.4,Morning Viewing
+907037,male,indian_asian,Gauteng,Chas ,Paradis,32,Youth,2,2,-73635839.67,Morning Viewing
+928343,male,indian_asian,Kwazulu Natal,Raymundo ,Curran,37,Adult,2,1,-73635824.23,Afternoon Viewing
+2370842,male,indian_asian,Limpopo,Dee ,Jacox,36,Adult,1,1,-36817916.8,Morning Viewing
+803542,male,indian_asian,Kwazulu Natal,Romeo ,Martello,36,Adult,1,1,-36817890.95,Afternoon Viewing
+866389,male,black,Gauteng,Chas ,Luthy,15,Teen,1,1,-36817911.13,Evening Viewing
+772117,male,coloured,Western Cape,Jared ,Mcclaine,29,Youth,2,1,-73635810.4,Morning Viewing
+591868,None,None,None,None,None,0,Child,1,1,-36817919.93,Midnight Viewing
+809647,male,coloured,Western Cape,Hugh,Deblois,39,Adult,5,4,-184089525.05,Afternoon Viewing
+882721,male,coloured,Eastern Cape,Jacinto ,Hier,26,Youth,2,1,-73635814.53,Morning Viewing
+868484,female,white,Free State,Blanca ,Slane,19,Youth,2,2,-73635825.53,Evening Viewing
+867105,male,black,North West,Shane ,Fudge,34,Youth,2,2,-73635833.53,Evening Viewing
+892133,male,black,Western Cape,Valentine ,Tancredi,31,Youth,2,2,-73635838.13,Afternoon Viewing
+787054,male,white,Mpumalanga,Lucas ,Luthy,19,Youth,1,1,-36817915.12,Afternoon Viewing
+860800,male,white,Gauteng,Markus ,Curran,21,Youth,1,1,-36817917.9,Morning Viewing
+772954,female,coloured,Northern Cape,Felipa ,Mcculloch,32,Youth,1,1,-36817887.1,Morning Viewing
+821843,male,black,Limpopo,Brendan ,Biggers,30,Youth,3,2,-110453750.84,Afternoon Viewing
+804854,male,black,Kwazulu Natal,Randy ,Zweifel,35,Adult,1,1,-36817902.85,Evening Viewing
+778248,male,None,Western Cape,Brendan ,Creager,34,Youth,1,1,-36817918.2,Afternoon Viewing
+2384970,male,coloured,Kwazulu Natal,Hyman ,Nicholls,39,Adult,1,1,-36817920,Afternoon Viewing
+620816,male,white,Gauteng,Valentine ,Leicht,39,Adult,1,1,-36817919.47,Afternoon Viewing
+491723,male,coloured,Western Cape,Lloyd ,Mccollum,51,Middle Aged,1,1,-36817780.47,Evening Viewing
+929024,male,white,Gauteng,Abel ,Hoadley,68,Retired,1,1,-36817904.7,Morning Viewing
+803807,male,white,Gauteng,Brendan ,Pilot,29,Youth,1,1,-36817918.97,Evening Viewing
+162937,male,white,Gauteng,Brendan ,Luthy,24,Youth,1,1,-36817917.17,Evening Viewing
+765012,male,black,Gauteng,Samuel ,Holt,33,Youth,1,1,-36817910.87,Afternoon Viewing
+772798,male,black,Kwazulu Natal,Robby ,Mcculloch,42,Adult,3,2,-110453713.07,Morning Viewing
+586442,male,white,Limpopo,Wilton ,Beville,22,Youth,1,1,-36817919.67,Afternoon Viewing
+810044,male,coloured,Mpumalanga,Len ,Restivo,32,Youth,3,1,-110453748.8,Morning Viewing
+777952,male,black,Gauteng,Randy ,Luthy,32,Youth,1,1,-36817899.47,Evening Viewing
+794528,male,coloured,Kwazulu Natal,Irving ,Bilyeu,30,Youth,2,1,-73635812.8,Evening Viewing
+810187,male,coloured,Gauteng,Earl ,Paradis,42,Adult,2,1,-73635828.67,Afternoon Viewing
+773165,male,black,Mpumalanga,Michel ,Lavoie,28,Youth,2,2,-73635839.76,Afternoon Viewing
+907845,female,None,Western Cape,Mellie ,Creager,47,Adult,1,1,-36817896.57,Morning Viewing
+119673,female,white,Kwazulu Natal,Lillian ,Borelli,38,Adult,1,1,-36817909.18,Morning Viewing
+2361961,male,coloured,Western Cape,Brendan ,Singer,38,Adult,1,1,-36817917.4,Afternoon Viewing
+790440,male,black,Gauteng,Hollis ,Hoadley,16,Teen,1,1,-36817919,Morning Viewing
+2423154,male,coloured,Western Cape,Raymundo ,Nicholls,35,Adult,3,2,-110453757.13,Morning Viewing
+2368619,male,black,North West,Claud ,Mcculloch,23,Youth,1,1,-36817913.22,Afternoon Viewing
+739893,male,black,Limpopo,Yong ,Mccollum,26,Youth,1,1,-36817919.16,Evening Viewing
+939867,male,black,Mpumalanga,Michel ,Hier,50,Middle Aged,1,1,-36817915.87,Evening Viewing
+426407,male,None,Western Cape,Irving ,Jacox,27,Youth,1,1,-36817895.63,Afternoon Viewing
+1488599,male,white,Gauteng,Cody ,Zweifel,46,Adult,1,1,-36817920,Afternoon Viewing
+809799,male,white,Western Cape,Jacinto ,Hier,22,Youth,1,1,-36817918.57,Morning Viewing
+641172,male,black,Limpopo,Lucas ,Nicholls,32,Youth,1,1,-36817918.05,Afternoon Viewing
+920203,None,None,None,None,None,0,Child,1,1,-36817919.7,Afternoon Viewing
+927986,male,indian_asian,Kwazulu Natal,Jacinto ,Holt,44,Adult,1,1,-36817915.23,Afternoon Viewing
+772992,male,black,Mpumalanga,Samuel ,Biggers,24,Youth,2,2,-73635837.35,Evening Viewing
+2092002,male,coloured,Western Cape,Samuel ,Pool,60,Middle Aged,1,1,-36817918.47,Afternoon Viewing
+773187,male,white,Mpumalanga,Royal ,Bilyeu,38,Adult,2,1,-73635838.62,Afternoon Viewing
+877370,male,other,Western Cape,Samuel ,Nicholls,29,Youth,1,1,-36817920,Afternoon Viewing
+773403,male,None,Western Cape,Jared ,Wigfall,31,Youth,1,1,-36817919.83,Afternoon Viewing
+928768,female,None,Gauteng,Carlota ,Tancredi,32,Youth,1,1,-36817918.17,Afternoon Viewing
+794939,female,None,Gauteng,Krysta ,Mastrangelo,26,Youth,1,1,-36817918.5,Morning Viewing
+807861,male,black,Gauteng,Abel ,Woolard,34,Youth,1,1,-36817918.85,Afternoon Viewing
+808915,male,black,Kwazulu Natal,Cory ,Mcclaine,37,Adult,2,2,-73635837.93,Afternoon Viewing
+892461,male,indian_asian,Kwazulu Natal,Bernardo ,Paradis,30,Youth,2,1,-73635838.7,Morning Viewing
+771123,None,None,None,None,None,0,Child,1,1,-36817917.55,Evening Viewing
+772098,male,white,Western Cape,Garry ,Caves,54,Middle Aged,1,1,-36817902.97,Evening Viewing
+85476,female,black,Kwazulu Natal,Briana ,Caves,34,Youth,1,1,-36817917.9,Afternoon Viewing
+603558,male,black,Gauteng,Markus ,Crotty,50,Middle Aged,1,1,-36817917.9,Evening Viewing
+2370069,female,black,Kwazulu Natal,Iva ,Styer,34,Youth,1,1,-36817915.42,Morning Viewing
+777927,male,indian_asian,Gauteng,Wilburn ,Slane,35,Adult,1,1,-36817915.43,Morning Viewing
+810042,male,black,Gauteng,Art ,Mccollum,31,Youth,3,1,-110453706.7,Afternoon Viewing
+150729,male,white,Mpumalanga,Wilburn ,Singer,22,Youth,1,1,-36817917.47,Morning Viewing
+893566,male,black,Western Cape,Bernardo ,Styer,25,Youth,1,1,-36817919.13,Morning Viewing
+867555,male,None,Western Cape,Hollis ,Deblois,38,Adult,1,1,-36817919.43,Evening Viewing
+773062,male,black,Mpumalanga,Valentine ,Beville,32,Youth,1,1,-36817918.65,Evening Viewing
+199852,None,None,None,None,None,0,Child,1,1,-36817918.45,Morning Viewing
+549032,male,black,Gauteng,Stephen ,Borelli,42,Adult,2,2,-73635828.18,Evening Viewing
+173765,None,None,None,None,None,0,Child,1,1,-36817918.95,Morning Viewing
+552589,male,None,Gauteng,Markus ,Curran,32,Youth,1,1,-36817919.47,Morning Viewing
+924899,male,None,Gauteng,Emerson ,Mcclaine,27,Youth,1,1,-36817918.87,Midnight Viewing
+919622,male,white,Gauteng,Stefan ,Sytsma,37,Adult,1,1,-36817916.97,Afternoon Viewing
+793938,male,indian_asian,Kwazulu Natal,Claud ,Restivo,48,Adult,1,1,-36817919.2,Evening Viewing
+940516,male,coloured,Kwazulu Natal,Hollis ,Holt,42,Adult,1,1,-36817919.63,Morning Viewing
+772950,female,black,Gauteng,Briana ,Caves,35,Adult,1,1,-36817919.31,Afternoon Viewing
+941208,female,black,Northern Cape,Dia ,Arrieta,29,Youth,1,1,-36817877.2,Evening Viewing
+907637,male,indian_asian,Eastern Cape,Earl ,Marek,41,Adult,2,1,-73635816.13,Morning Viewing
+593270,female,white,North West,Rebecka ,Shkreli,33,Youth,1,1,-36817904.08,Evening Viewing
+771685,None,None,None,None,None,0,Child,1,1,-36817918.73,Morning Viewing
+2428509,male,coloured,Western Cape,Kyle ,Tancredi,30,Youth,1,1,-36817919.7,Evening Viewing
+2205474,male,black,Eastern Cape,Kip ,Mcclaine,62,Middle Aged,1,1,-36817901.6,Evening Viewing
+918104,male,white,Eastern Cape,Kip ,Woolard,36,Adult,1,1,-36817919.93,Afternoon Viewing
+730294,male,black,Eastern Cape,Markus ,Hoadley,25,Youth,1,1,-36817846.15,Afternoon Viewing
+638935,None,None,None,None,None,0,Child,1,1,-36817914.98,Afternoon Viewing
+926675,male,indian_asian,Kwazulu Natal,Carter ,Shkreli,27,Youth,1,1,-36817905.03,Morning Viewing
+809759,male,indian_asian,Limpopo,Raymundo ,Holt,37,Adult,1,1,-36817917.57,Afternoon Viewing
+821963,female,black,Kwazulu Natal,Shelley ,Reisinger,32,Youth,2,1,-73635822.33,Evening Viewing
+810304,male,coloured,Gauteng,Bernardo ,Vital,24,Youth,2,2,-73635830.46,Afternoon Viewing
+2021360,male,black,Gauteng,Efren ,Marek,52,Middle Aged,1,1,-36817919.88,Afternoon Viewing
+722869,None,None,None,None,None,0,Child,1,1,-36817914.67,Evening Viewing
+810557,male,black,Gauteng,Donald ,Arrieta,26,Youth,1,1,-36817919.9,Afternoon Viewing
+833513,male,coloured,Kwazulu Natal,Hyman ,Condie,44,Adult,4,2,-147271599.32,Afternoon Viewing
+189392,None,None,None,None,None,0,Child,1,1,-36817918.8,Evening Viewing
+822450,male,white,Gauteng,Chas ,Borelli,32,Youth,1,1,-36817919.38,Morning Viewing
+820849,male,indian_asian,Kwazulu Natal,Wilton ,Sieren,17,Teen,1,1,-36817918.68,Afternoon Viewing
+819583,male,black,Gauteng,Robby ,Deblois,20,Youth,1,1,-36817917.87,Evening Viewing
+821350,female,black,Kwazulu Natal,Katharina ,Condie,26,Youth,1,1,-36817918.58,Afternoon Viewing
+794489,male,black,Gauteng,Claud ,Gettys,34,Youth,1,1,-36817919,Morning Viewing
+907138,male,white,Gauteng,Stacy ,Reisinger,31,Youth,2,1,-73635804.03,Morning Viewing
+903467,female,white,Western Cape,Briana ,Caves,47,Adult,1,1,-36817914.48,Afternoon Viewing
+861217,female,None,Kwazulu Natal,Bess ,Jacox,47,Adult,1,1,-36817643.8,Afternoon Viewing
+766143,male,coloured,Western Cape,Raymundo ,Caves,29,Youth,1,1,-36817913.43,Afternoon Viewing
+814007,male,white,Gauteng,Emerson ,Wigfall,31,Youth,1,1,-36817916.93,Afternoon Viewing
+939570,male,None,Gauteng,Emerson ,Marek,22,Youth,1,1,-36817918.6,Midnight Viewing
+1106084,male,black,Gauteng,Hyman ,Mosser,37,Adult,5,4,-184089568,Evening Viewing
+939619,male,coloured,Western Cape,Carter ,Curran,50,Middle Aged,2,2,-73635838.52,Afternoon Viewing
+773728,male,None,Gauteng,Dee ,Luthy,36,Adult,1,1,-36817919.62,Evening Viewing
+817449,male,coloured,Western Cape,Cody ,Sieren,33,Youth,1,1,-36817918.87,Evening Viewing
+866393,male,black,Gauteng,Charlie ,Woolard,19,Youth,1,1,-36817917.35,Afternoon Viewing
+772028,male,black,North West,Shane ,Arrieta,30,Youth,3,3,-110453746.52,Evening Viewing
+940064,male,coloured,Western Cape,Dee ,Restivo,45,Adult,1,1,-36817913.23,Morning Viewing
+940076,male,black,Eastern Cape,Cody ,Nicholls,51,Middle Aged,2,1,-73635839.75,Evening Viewing
+893063,male,white,Gauteng,Samuel ,Wigfall,24,Youth,2,2,-73635833.17,Evening Viewing
+789265,male,white,North West,Samuel ,Mccown,32,Youth,4,2,-147271650.42,Evening Viewing
+832433,male,black,Mpumalanga,Hollis ,Zweifel,29,Youth,3,3,-110453744.27,Afternoon Viewing
+866891,male,indian_asian,Kwazulu Natal,Michel ,Mcculloch,37,Adult,2,2,-73635838.75,Afternoon Viewing
+809681,male,black,Mpumalanga,Raymundo ,Beville,26,Youth,3,3,-110453694.58,Evening Viewing
+2158646,male,black,Gauteng,Romeo ,Deblois,33,Youth,1,1,-36817920,Evening Viewing
+920091,male,indian_asian,Gauteng,Stephen ,Mina,40,Adult,1,1,-36817920,Evening Viewing
+940827,female,black,Gauteng,Earline ,Zweifel,27,Youth,2,2,-73635839.19,Evening Viewing
+772903,male,coloured,Eastern Cape,Shane ,Lavoie,40,Adult,2,2,-73635837.95,Evening Viewing
+940971,male,coloured,Free State,Wilburn ,Condie,39,Adult,2,2,-73635820.13,Evening Viewing
+2370685,male,black,Free State,Lloyd ,Tancredi,46,Adult,4,2,-147271306.5,Afternoon Viewing
+2288692,male,indian_asian,Limpopo,Royal ,Mosser,31,Youth,2,2,-73635836.9,Morning Viewing
+861235,male,coloured,Western Cape,Stacy ,Deblois,18,Youth,2,2,-73635836.61,Evening Viewing
+773309,female,black,Free State,Bess ,Jacox,24,Youth,2,2,-73635828.86,Evening Viewing
+810537,female,coloured,Mpumalanga,Bess ,Jacox,34,Youth,2,2,-73635837.6,Evening Viewing
+810569,male,black,Western Cape,Charlie ,Roquemore,34,Youth,4,3,-147271617.77,Midnight Viewing
+822420,male,coloured,Western Cape,Markus ,Woolard,27,Youth,3,2,-110453713.9,Afternoon Viewing
+2362188,male,coloured,Northern Cape,Wilton ,Mcculloch,40,Adult,2,2,-73635827.69,Morning Viewing
+822477,male,indian_asian,Gauteng,Donald ,Mccollum,45,Adult,3,1,-110453707.97,Evening Viewing
+2362204,male,None,Western Cape,Carter ,Mosser,45,Adult,1,1,-36817919.63,Afternoon Viewing
+822534,male,None,Western Cape,Lane ,Slane,38,Adult,1,1,-36817919.77,Evening Viewing
+868144,male,black,Gauteng,Len ,Leicht,40,Adult,3,3,-110453751.98,Afternoon Viewing
+652906,male,coloured,Western Cape,Wilton ,Hier,43,Adult,3,2,-110453756.95,Morning Viewing
+919490,male,white,Western Cape,Yong ,Reisinger,44,Adult,1,1,-36817917.33,Evening Viewing
+894467,None,None,None,None,None,0,Child,2,2,-73635793.27,Afternoon Viewing
+809316,female,black,Mpumalanga,Tiffani ,Pilot,29,Youth,2,1,-73635834.9,Morning Viewing
+803869,male,None,Mpumalanga,Raymundo ,Borelli,43,Adult,1,1,-36817918.83,Evening Viewing
+820872,male,black,Free State,Hyman ,Nicholls,29,Youth,3,2,-110453752.58,Afternoon Viewing
+787730,male,white,Mpumalanga,Dion ,Hier,32,Youth,1,1,-36817915.55,Evening Viewing
+621695,female,None,Western Cape,Alecia ,Roquemore,20,Youth,3,3,-110453759.18,Evening Viewing
+859941,male,black,Gauteng,Cody ,Reisinger,52,Middle Aged,1,1,-36817919.23,Morning Viewing
+789201,male,black,Limpopo,Hugh,Leicht,36,Adult,11,3,-404996973.08,Afternoon Viewing
+809547,male,indian_asian,Gauteng,Lucas ,Mcclaine,38,Adult,8,3,-294543309.25,Morning Viewing
+764997,male,black,Mpumalanga,Hollis ,Mastrangelo,31,Youth,2,2,-73635830.85,Morning Viewing
+618028,male,black,Kwazulu Natal,Kip ,Tatham,29,Youth,1,1,-36817918.8,Afternoon Viewing
+894605,male,black,Gauteng,Earl ,Marek,29,Youth,1,1,-36817918.3,Evening Viewing
+1476710,female,black,Gauteng,Williemae ,Holt,19,Youth,1,1,-36817920,Evening Viewing
+2426920,male,black,Kwazulu Natal,Filiberto ,Beville,29,Youth,1,1,-36817916.35,Evening Viewing
+832609,male,black,Mpumalanga,Samuel ,Holt,22,Youth,2,1,-73635803.35,Evening Viewing
+2361049,male,black,Gauteng,Jacinto ,Jacox,48,Adult,4,3,-147271667.78,Afternoon Viewing
+809935,male,coloured,Gauteng,Valentine ,Mccown,27,Youth,4,4,-147271665.98,Afternoon Viewing
+772839,male,black,Limpopo,Yong ,Hier,27,Youth,2,2,-73635826.92,Evening Viewing
+821747,male,coloured,Western Cape,Kyle ,Deblois,30,Youth,2,2,-73635835.41,Afternoon Viewing
+906875,male,black,Limpopo,Donald ,Caves,36,Adult,1,1,-36817903.23,Afternoon Viewing
+833036,male,indian_asian,Limpopo,Kyle ,Roquemore,34,Youth,2,2,-73635821.52,Morning Viewing
+893861,male,black,Mpumalanga,Cory ,Luthy,30,Youth,7,4,-257725424.42,Morning Viewing
+2361696,male,coloured,Western Cape,Earl ,Sytsma,49,Adult,2,2,-73635665.88,Evening Viewing
+931724,male,indian_asian,Limpopo,Cody ,Biggers,26,Youth,1,1,-36817775.17,Afternoon Viewing
+773246,male,None,Mpumalanga,Bernardo ,Curran,40,Adult,2,2,-73635835.39,Evening Viewing
+867870,male,white,Gauteng,Filiberto ,Marek,48,Adult,2,2,-73635819.77,Morning Viewing
+2092259,male,black,Mpumalanga,Markus ,Leicht,42,Adult,1,1,-36817910.18,Morning Viewing
+909181,male,white,Eastern Cape,Earl ,Crotty,36,Adult,1,1,-36817919.43,Afternoon Viewing
+847050,male,white,Eastern Cape,Valentine ,Curran,33,Youth,1,1,-36817920,Morning Viewing
+773563,male,indian_asian,Mpumalanga,Wilton ,Wigfall,37,Adult,1,1,-36817917.37,Afternoon Viewing
+822538,male,indian_asian,Western Cape,Romeo ,Pilot,37,Adult,3,2,-110453750.97,Morning Viewing
+780818,male,white,Mpumalanga,Kip ,Deblois,22,Youth,3,2,-110453715.1,Afternoon Viewing
+817216,male,white,Kwazulu Natal,Michel ,Marek,31,Youth,2,2,-73635837.07,Evening Viewing
+779486,male,black,Gauteng,Valentine ,Zweifel,36,Adult,1,1,-36817919.67,Morning Viewing
+771911,male,black,North West,Dion ,Condie,25,Youth,6,5,-220907493.83,Afternoon Viewing
+809072,male,black,Kwazulu Natal,Raymundo ,Reisinger,32,Youth,3,2,-110453733.08,Morning Viewing
+819426,None,None,None,None,None,0,Child,1,1,-36817919.77,Evening Viewing
+788947,male,black,Kwazulu Natal,Lloyd ,Mccown,39,Adult,1,1,-36817916.3,Evening Viewing
+892783,female,indian_asian,Kwazulu Natal,Rebekah ,Paradis,34,Youth,1,1,-36817915.03,Afternoon Viewing
+892975,female,indian_asian,Kwazulu Natal,Shelley ,Reisinger,45,Adult,1,1,-36817918.9,Afternoon Viewing
+860147,male,coloured,Western Cape,Brendan ,Lavoie,37,Adult,1,1,-36817916.6,Afternoon Viewing
+812006,None,None,None,None,None,0,Child,2,2,-73635840,Morning Viewing
+809765,male,coloured,Western Cape,Len ,Hoadley,37,Adult,3,3,-110453752.62,Evening Viewing
+2287969,male,white,Gauteng,Samuel ,Sytsma,37,Adult,1,1,-36817918.57,Morning Viewing
+940738,male,indian_asian,Gauteng,Dee ,Nicholls,33,Youth,3,3,-110453563.7,Afternoon Viewing
+821702,male,black,Western Cape,Michel ,Biggers,31,Youth,2,2,-73635839.32,Morning Viewing
+893657,male,white,Kwazulu Natal,Lane ,Roquemore,52,Middle Aged,2,2,-73635836.87,Afternoon Viewing
+867718,male,black,Gauteng,Yong ,Deblois,38,Adult,2,2,-73635766.98,Morning Viewing
+2428274,male,black,Kwazulu Natal,Lucas ,Deblois,51,Middle Aged,5,4,-184089571.84,Afternoon Viewing
+810460,male,coloured,Western Cape,Shane ,Mccollum,26,Youth,6,3,-220907513.6,Afternoon Viewing
+773300,female,black,Limpopo,Tiffani ,Pilot,22,Youth,4,2,-147271669.8,Evening Viewing
+773461,male,black,Limpopo,Claud ,Reisinger,29,Youth,2,2,-73635837.7,Evening Viewing
+585704,male,None,Mpumalanga,Art ,Jacox,35,Adult,1,1,-36817919.93,Morning Viewing
+334955,None,None,None,None,None,0,Child,1,1,-36817919.92,Afternoon Viewing
+808988,male,black,Gauteng,Robby ,Roquemore,34,Youth,4,3,-147271669.25,Midnight Viewing
+893061,male,black,Gauteng,Haywood ,Jacox,28,Youth,6,2,-220907492.25,Morning Viewing
+597265,male,black,Gauteng,Donald ,Roquemore,28,Youth,3,3,-110453604.48,Evening Viewing
+930123,male,indian_asian,Gauteng,Len ,Restivo,31,Youth,2,2,-73635817.52,Evening Viewing
+809083,male,black,Gauteng,Randy ,Deblois,40,Adult,2,2,-73635819.6,Afternoon Viewing
+820562,male,other,Gauteng,Jared ,Hoadley,44,Adult,4,2,-147271660.18,Afternoon Viewing
+809147,male,None,Eastern Cape,Wilburn ,Sieren,51,Middle Aged,3,2,-110453758.18,Evening Viewing
+830980,male,indian_asian,Kwazulu Natal,Jared ,Zweifel,42,Adult,11,6,-404997050.37,Afternoon Viewing
+2203633,male,white,Eastern Cape,Stephen ,Mastrangelo,70,Retired,1,1,-36817918.57,Evening Viewing
+820897,male,black,Gauteng,Stefan ,Leicht,38,Adult,1,1,-36817912.83,Evening Viewing
+860020,male,black,Gauteng,Emerson ,Holt,35,Adult,1,1,-36817919.6,Afternoon Viewing
+772449,male,white,Gauteng,Irving ,Creager,25,Youth,1,1,-36817918.47,Afternoon Viewing
+2204117,female,black,Mpumalanga,Anette ,Leicht,35,Adult,4,3,-147271672.68,Morning Viewing
+808410,female,white,Western Cape,Cordie ,Singer,24,Youth,1,1,-36817919.8,Afternoon Viewing
+940611,male,black,Gauteng,Lane ,Curran,29,Youth,8,6,-294543334.63,Afternoon Viewing
+820077,male,coloured,Western Cape,Filiberto ,Beville,40,Adult,4,4,-147271611.5,Midnight Viewing
+892168,male,coloured,Western Cape,Jacinto ,Mastrangelo,29,Youth,1,1,-36817919.63,Afternoon Viewing
+867378,male,white,Mpumalanga,Earl ,Deblois,41,Adult,2,2,-73635837.2,Afternoon Viewing
+808587,male,indian_asian,Limpopo,Wilburn ,Condie,17,Teen,3,2,-110453753.58,Morning Viewing
+2239795,male,black,Gauteng,Jacinto ,Mosser,28,Youth,1,1,-36817919.87,Morning Viewing
+223263,male,white,Limpopo,Hugh,Leicht,54,Middle Aged,1,1,-36817919.72,Evening Viewing
+2091776,male,coloured,Western Cape,Eli ,Mina,27,Youth,1,1,-36817919.53,Afternoon Viewing
+772956,male,indian_asian,Gauteng,Markus ,Tancredi,25,Youth,15,5,-552268715.33,Afternoon Viewing
+879990,male,indian_asian,Limpopo,Haywood ,Borelli,35,Adult,1,1,-36817910.47,Afternoon Viewing
+833191,male,black,Gauteng,Michel ,Paradis,33,Youth,4,4,-147271672.3,Evening Viewing
+822076,male,None,Free State,Carter ,Jacox,50,Middle Aged,2,2,-73635835.65,Afternoon Viewing
+810445,male,None,Western Cape,Bernardo ,Deblois,33,Youth,6,5,-220907445.4,Evening Viewing
+810495,male,white,Eastern Cape,Royal ,Wigfall,33,Youth,2,2,-73635833.6,Afternoon Viewing
+2092227,female,coloured,Northern Cape,Eula ,Mccown,13,Teen,1,1,-36817915.35,Evening Viewing
+810650,female,white,Gauteng,Seema ,Fudge,55,Middle Aged,1,1,-36817919.77,Afternoon Viewing
+808897,female,black,Gauteng,Nubia ,Sytsma,35,Adult,1,1,-36817918.24,Evening Viewing
+2360014,male,None,Gauteng,Lloyd ,Zweifel,61,Middle Aged,1,1,-36817919.53,Afternoon Viewing
+809251,male,None,Western Cape,Yong ,Mcclaine,26,Youth,2,1,-73635835.67,Morning Viewing
+1376155,female,black,Limpopo,Krysta ,Mastrangelo,26,Youth,1,1,-36817920,Morning Viewing
+771147,male,white,Mpumalanga,Kyle ,Mina,28,Youth,2,2,-73635818.47,Afternoon Viewing
+788998,male,white,Gauteng,Cody ,Pilot,41,Adult,1,1,-36817900.13,Afternoon Viewing
+2360203,male,black,Eastern Cape,Stacy ,Zweifel,42,Adult,1,1,-36817919.68,Afternoon Viewing
+892954,male,black,Mpumalanga,Efren ,Roquemore,35,Adult,1,1,-36817918.7,Evening Viewing
+789227,male,coloured,Western Cape,Jacinto ,Vital,36,Adult,3,2,-110453670.42,Evening Viewing
+893138,male,coloured,Western Cape,Bernardo ,Nicholls,32,Youth,2,2,-73635828.93,Afternoon Viewing
+865745,male,indian_asian,Kwazulu Natal,Stacy ,Gettys,35,Adult,2,2,-73635838.6,Afternoon Viewing
+816807,None,None,None,None,None,0,Child,1,1,-36817917,Evening Viewing
+867564,male,None,Kwazulu Natal,Markus ,Pascarella,30,Youth,1,1,-36817917.5,Evening Viewing
+941272,male,None,Gauteng,Michel ,Fudge,9,Child,2,2,-73635824.5,Afternoon Viewing
+790113,male,other,Western Cape,Stefan ,Paradis,51,Middle Aged,1,1,-36817913.47,Afternoon Viewing
+907886,male,None,Gauteng,Earl ,Creager,43,Adult,2,2,-73635826.87,Afternoon Viewing
+773263,male,coloured,Western Cape,Charlie ,Mcculloch,35,Adult,1,1,-36817808.2,Evening Viewing
+2371074,male,black,Western Cape,Donald ,Hoadley,41,Adult,9,4,-331361171.35,Afternoon Viewing
+908182,male,white,Free State,Hollis ,Leicht,54,Middle Aged,1,1,-36817916.73,Evening Viewing
+810547,male,coloured,Gauteng,Filiberto ,Reisinger,32,Youth,2,2,-73635809.38,Morning Viewing
+811332,male,coloured,Gauteng,Randy ,Arrieta,39,Adult,3,3,-110453752.2,Evening Viewing
+810572,male,None,Western Cape,Jared ,Hier,22,Youth,9,5,-331361221.4,Evening Viewing
+833576,male,black,Kwazulu Natal,Jared ,Gettys,37,Adult,1,1,-36817895.35,Afternoon Viewing
+778561,male,coloured,Western Cape,Chas ,Arrieta,47,Adult,2,1,-73635835.53,Afternoon Viewing
+2368357,male,black,Gauteng,Kip ,Curran,37,Adult,4,4,-147271675.2,Afternoon Viewing
+779442,female,black,Free State,Alecia ,Roquemore,31,Youth,3,2,-110453749.25,Afternoon Viewing
+771945,male,black,Kwazulu Natal,Markus ,Sieren,32,Youth,5,5,-184089574.04,Afternoon Viewing
+919378,male,black,Kwazulu Natal,Claud ,Mccown,33,Youth,2,2,-73635834.05,Afternoon Viewing
+924896,male,indian_asian,Gauteng,Haywood ,Zweifel,25,Youth,1,1,-36817858.37,Afternoon Viewing
+820639,male,indian_asian,Limpopo,Len ,Slane,29,Youth,1,1,-36817916,Afternoon Viewing
+809330,male,black,Gauteng,Stephen ,Marek,40,Adult,3,2,-110453759.18,Evening Viewing
+1106931,male,black,Gauteng,Randy ,Mcclaine,20,Youth,2,2,-73635831.68,Afternoon Viewing
+940154,male,indian_asian,Gauteng,Stacy ,Beville,35,Adult,3,3,-110453748.43,Evening Viewing
+478172,male,white,North West,Loyd ,Mcculloch,26,Youth,1,1,-36817916.95,Afternoon Viewing
+764961,male,black,Gauteng,Markus ,Mastrangelo,25,Youth,2,2,-73635837.65,Evening Viewing
+2426592,male,indian_asian,Limpopo,Cody ,Nicholls,32,Youth,2,2,-73635807.4,Evening Viewing
+940266,female,black,Kwazulu Natal,Trudie ,Restivo,15,Teen,3,2,-110453759.3,Afternoon Viewing
+537082,male,white,Kwazulu Natal,Lloyd ,Arrieta,22,Youth,1,1,-36817920,Midnight Viewing
+590330,male,white,Mpumalanga,Michel ,Arrieta,18,Youth,1,1,-36817913.93,Midnight Viewing
+568131,male,black,Gauteng,Art ,Crotty,34,Youth,1,1,-36817914.58,Afternoon Viewing
+809970,female,black,Gauteng,Eula ,Mccown,23,Youth,3,3,-110453755.17,Morning Viewing
+772890,male,None,Gauteng,Lane ,Hier,25,Youth,1,1,-36817919.2,Morning Viewing
+730607,male,black,Gauteng,Jacinto ,Lavoie,16,Teen,6,5,-220907499.91,Morning Viewing
+907017,male,indian_asian,Gauteng,Randy ,Sytsma,30,Youth,1,1,-36817919.9,Evening Viewing
+773055,male,black,Kwazulu Natal,Royal ,Hoadley,26,Youth,3,2,-110453744.63,Afternoon Viewing
+2361668,male,indian_asian,Limpopo,Lloyd ,Mastrangelo,31,Youth,3,3,-110453737.2,Evening Viewing
+773138,male,black,North West,Robby ,Luthy,40,Adult,8,4,-294543340.53,Evening Viewing
+941267,male,black,Western Cape,Stephen ,Pilot,26,Youth,2,2,-73635835.93,Afternoon Viewing
+790134,female,None,North West,Trudie ,Restivo,36,Adult,1,1,-36817914.8,Afternoon Viewing
+2415235,female,white,Gauteng,Desirae ,Luthy,37,Adult,3,3,-110453752.22,Evening Viewing
+910881,male,white,Western Cape,Raymundo ,Shkreli,30,Youth,2,2,-73635835.33,Morning Viewing
+904546,male,white,Kwazulu Natal,Yong ,Holt,14,Teen,1,1,-36817920,Evening Viewing
+892702,male,black,Mpumalanga,Filiberto ,Restivo,26,Youth,2,1,-73635836.32,Morning Viewing
+809185,None,None,None,None,None,0,Child,3,2,-110453740.22,Morning Viewing
+869282,male,black,Gauteng,Jacinto ,Nicholls,25,Youth,1,1,-36817825.75,Morning Viewing
+779908,male,black,Gauteng,Claud ,Mccown,51,Middle Aged,1,1,-36817920,Evening Viewing
+2369759,male,indian_asian,Limpopo,Cody ,Pool,30,Youth,2,2,-73635828.23,Morning Viewing
+810066,male,black,Gauteng,Art ,Singer,22,Youth,5,3,-184089568.18,Evening Viewing
