@@ -266,7 +266,7 @@ Final-Year BSc Computer Science Student
 Walter Sisulu University
 
 - **GitHub:** https://github.com/Thabiso0503
-- **LinkedIn:** *(Add your LinkedIn profile here)*
+
 
 ---
 
